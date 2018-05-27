@@ -1,6 +1,17 @@
 about.this.file: >-
   Strings in different locales are auto-generated and maintained by
   locale_strings.js.
+auth.enter_phone_number: Inserisci il numero di telefono
+auth.enter_verification_code: >-
+  Inserisci il codice di verifica a 6 cifre inviato al tuo telefono
+  <strong>%s</strong>
+auth.login: Accedi
+auth.login_with_telegram: Accedi con Telegram
+auth.next: Prossimo
+auth.phone_number: Numero di Telefono
+auth.tab.mobile: Telefono(CN)
+auth.tab.telegram: Telegram
+auth.verification_code: Codice di verifica
 charity.donated: Donati
 charity.more-info: Altro sui Programmi di Beneficenza di IoTeX
 charity.question: Come ho conosciuto IoTeX? Perché mi interessa?
@@ -12,11 +23,13 @@ charity.tweet.summary.description: >-
 charity.tweet.summary.image: >-
   https://s3.amazonaws.com/web-iotex-static/home/1st-charity-twitter-summary-image-v2.png
 charity.tweet.summary.title: Sei nell'Albo d'Onore IoTeX!
-claim.btn: RECLAMA I TUOI PUNTI
+claim.btn: RICHIEDI I TUOI PUNTI
 contact.btn: CONTATTACI
 contact.desc: Gli esperti IoTeX sono pronti a rispondere alle tue domande all'indirizzo support@iotex.io
 contact.title: RESTA IN CONTATTO
+doraHacks: DoraHacks
 ethFoundation: Fondazione Ethereum
+geetest.loading_captcha: Caricamento captcha...
 hall-of-fame.badge-section.title: I Programma di Donazione IoTeX — ETH Foundation
 hall-of-fame.badge-section.unicorn.desc: >
   Ethereum ha rivoluzionato il mondo della blockchain negli ultimi quattro anni e
@@ -104,6 +117,11 @@ home.guang.desc.keep: >-
   a Radiofrequenza (RFID).
 home.guang.name.keep: Guang Gong
 home.guang.title.keep: null
+home.hao.desc.keep: >-
+  Master in Ingegneria del Software alla Carnegie Mellon University. Appassionato
+  di Web e Blockchain.
+home.hao.name.keep: Hao Cui
+home.hao.title.keep: Ingegnere del Software stagista
 home.jack.desc.keep: >-
   Co-Fondatore Managing Partner di HCM Capital, Foxconn Technology Group.
   Co-Fondatore e direttore esecutivo di Chained Finance Ltd., Fondatore e Direttore esecutivo
@@ -128,6 +146,11 @@ home.monika.desc.keep: >-
   privacy, reti e tecnologie emergenti.
 home.monika.name.keep: Monika Hathaway
 home.monika.title.keep: Comunicazione
+home.nick.desc.keep: >-
+  Master in Computer Science alla USC laurea breve presso l'Università del Wisconsin-
+  Madison. Sviluppo Web, appassionato di Blockchain e Machine Learning.
+home.nick.name.keep: Nick Chen
+home.nick.title.keep: Sviluppatore Full Stack Stagista
 home.paddy.desc.keep: >-
   Senior Software Engineer presso Microsoft, specializzata in sistemi distribuiti.
   Contributo attivo a progetti open source. Laurea in Computer Science presso L'Università 
@@ -161,6 +184,12 @@ home.site.description: >-
   Blockchain Auto-Scalabile, Estendibile, Incentrata sulla Privacy. Che collega il Mondo
   Fisico, Blocco per Blocco.
 home.slogan: Connettiamo il Mondo Fisico Blocco per Blocco
+home.title: IoTeX
+home.vedaad.desc.keep: >-
+  Studente di EECS e Matematica Applicata presso UC Berkeley; Ricercatore Blockchain
+  nel team di crypto-economia presso Blockchain @ Berkeley
+home.vedaad.name.keep: Vedaad Shakib
+home.vedaad.title.keep: Ingegnere della Blockchain Stagista
 home.vincent.desc.keep: >-
   Studente di informatica presso l'Università di Waterloo. Appassionato di blockchain e
   e sicurezza informatica.
@@ -177,7 +206,36 @@ home.zhefeng.desc.keep: >-
   in Matematica e Informatica presso l'Università del Wisconsin-Madison.
   Appassionato di tecnologia blockchain, apprendimento automatico e Internet of Things.
 home.zhefeng.name.keep: Zhefeng Li
-home.zhefeng.title.keep: Blockchain Engineer
+home.zhefeng.title.keep: Ingegnere della Blockchain
+next: prossimo
+profile.bar_receive_points: RICHIEDI
+profile.bar_redeem_points: INVIA RICHIESTA
+profile.bar_send_points: GENERA CODICE
+profile.bar_success_receive_points: RICHIEDI
+profile.bar_success_send_points: GENERA
+profile.eth_address: Indirizzo ETH
+profile.history.category: Categoria
+profile.history.point: Punti
+profile.history.status: Stato
+profile.history.time: Ora
+profile.msg_receive_points: msg_receive_points
+profile.phone: Telefono
+profile.receive_reward_points: RICEVI
+profile.redeem.less_than_100_points: Devi avere almeno 100 punti pe inviare una richiesta.
+profile.redeem.not_a_number: Inserisci un numero valido.
+profile.redeem.not_enough_points: Non hai abbastanza punti.
+profile.redeem.smaller_than_zero: Inserisci una quantità da riscattare valida.
+profile.redeem.success: >-
+  Per assicurare che tutte le richieste siano elaborate in sicurezza ed evitare commissioni di gas troppo alte,
+  gestiremo le richieste gradualmente e porteremo a termine tutte le conversioni punti-token
+  entro due settimane dalla data di emissione del token.
+profile.redeem_reward_points: RISCATTA
+profile.reward_points_history: STORIA
+profile.send_reward_points: INVIA
+profile.telegram_account_id: Telegram
+profile.title_receive_points: INSERISCI IL CODICE PER RICHIEDERE ALTRI PUNTI
+profile.title_redeem_points: INSERISCI LA QUANTITÀ CHE VUOI RISCATTARE IN IOTX
+profile.title_send_points: INSERISCI LA QUANTITÀ CHE VUOI INVIARE
 stonevan.twitter: >-
   Ho appena ottenuto 100 punti gratuiti da IoTeX festeggiando la prima versione di anteprima 
   della loro Testnet. @iotex_io Vieni e ottieni i tuoi punti!
@@ -192,6 +250,8 @@ topbar.careers: CARRIERE
 topbar.charity: DONAZIONI
 topbar.faq: FAQ
 topbar.home: HOME
+topbar.login: ACCEDI
 topbar.white-paper: WHITE PAPER
+topbar.announcements: NOVITÀ
 whitepaper.button.next: PROSSIMO
 whitepaper.button.previous: PRECEDENTE
