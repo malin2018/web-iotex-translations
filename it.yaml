@@ -225,6 +225,7 @@ profile.redeem.less_than_100_points: Devi avere almeno 100 punti pe inviare una 
 profile.redeem.not_a_number: Inserisci un numero valido.
 profile.redeem.not_enough_points: Non hai abbastanza punti.
 profile.redeem.smaller_than_zero: Inserisci una quantità da riscattare valida.
+profile.redeem.no_valid_eth_address: Hai bisogno di un indirizzo ETH valido.
 profile.redeem.success: >-
   Per assicurare che tutte le richieste siano elaborate in sicurezza ed evitare commissioni di gas troppo alte,
   gestiremo le richieste gradualmente e porteremo a termine tutte le conversioni punti-token
@@ -251,6 +252,7 @@ topbar.charity: DONAZIONI
 topbar.faq: FAQ
 topbar.home: HOME
 topbar.login: ACCEDI
+topbar.logout: ESCI
 topbar.white-paper: WHITE PAPER
 topbar.announcements: NOVITÀ
 whitepaper.button.next: PROSSIMO
