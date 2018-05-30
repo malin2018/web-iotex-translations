@@ -175,7 +175,7 @@ home.section.arch: IoTeX.Architettura
 home.section.innovations: IoTeX.Innovazioni
 home.section.investors: IoTeX.Investitori
 home.section.partners: IoTeX.PartnerStrategici
-home.section.roadmap: IoTeX.Roadmap
+home.section.roadmap: IoTeX.Tech.Roadmap
 home.section.team: IoTeX.Team
 home.section.teamfrom: IoTeX.Team.Esperienza
 home.section.useceses: IoTeX.CasiDiUtilizzo
@@ -208,35 +208,29 @@ home.zhefeng.desc.keep: >-
 home.zhefeng.name.keep: Zhefeng Li
 home.zhefeng.title.keep: Ingegnere della Blockchain
 next: prossimo
-profile.bar_receive_points: RICHIEDI
-profile.bar_redeem_points: INVIA RICHIESTA
-profile.bar_send_points: GENERA CODICE
-profile.bar_success_receive_points: RICHIEDI
-profile.bar_success_send_points: GENERA
-profile.eth_address: Indirizzo ETH
 profile.history.category: Categoria
+profile.history.menu: STORIA
 profile.history.point: Punti
 profile.history.status: Stato
 profile.history.time: Ora
-profile.msg_receive_points: msg_receive_points
-profile.phone: Telefono
-profile.receive_reward_points: RICEVI
-profile.redeem.less_than_100_points: Devi avere almeno 100 punti pe inviare una richiesta.
-profile.redeem.not_a_number: Inserisci un numero valido.
-profile.redeem.not_enough_points: Non hai abbastanza punti.
-profile.redeem.smaller_than_zero: Inserisci una quantità da riscattare valida.
-profile.redeem.no_valid_eth_address: Hai bisogno di un indirizzo ETH valido.
+profile.info.eth_address: Indirizzo ETH
+profile.receive.button: RICEVI
+profile.receive.menu: RICEVI
+profile.receive.prompt: INSERISCI IL CODICE
+profile.receive.success: Congratulazioni! Hai appena ricevuto %s punti.
+profile.redeem.button: INVIA RICHIESTA
+profile.redeem.menu: RISCATTA
+profile.redeem.prompt: INSERISCI LA QUANTITÀ CHE VUOI RISCATTARE IN IOTEX
 profile.redeem.success: >-
-  Per assicurare che tutte le richieste siano elaborate in sicurezza ed evitare commissioni di gas troppo alte,
-  gestiremo le richieste gradualmente e porteremo a termine tutte le conversioni punti-token
-  entro due settimane dalla data di emissione del token.
-profile.redeem_reward_points: RISCATTA
-profile.reward_points_history: STORIA
-profile.send_reward_points: INVIA
-profile.telegram_account_id: Telegram
-profile.title_receive_points: INSERISCI IL CODICE PER RICHIEDERE ALTRI PUNTI
-profile.title_redeem_points: INSERISCI LA QUANTITÀ CHE VUOI RISCATTARE IN IOTX
-profile.title_send_points: INSERISCI LA QUANTITÀ CHE VUOI INVIARE
+  La tua richiesta è stata accettata ed è in coda! Per evitare congestione
+  sulla rete Ethereum, elaboreremo le richieste gradualmente, portando a termine tutte
+  le conversioni da punti a token entro due settimane.
+profile.send.button: INVIA
+profile.send.menu: INVIA
+profile.send.prompt: INSERISCI LA QUANTITÀ CHE VUOI INVIARE
+profile.send.success: >-
+  Il codice IoTeX è stato creato con successo! Copia il codice per trasferire punti
+  tra diversi account: %s.
 stonevan.twitter: >-
   Ho appena ottenuto 100 punti gratuiti da IoTeX festeggiando la prima versione di anteprima 
   della loro Testnet. @iotex_io Vieni e ottieni i tuoi punti!
@@ -245,7 +239,8 @@ subscribe.desc: Con i nostri eventi e i progressi più recenti.
 subscribe.title: RIMANI AGGIORNATO
 testnet-preview.home-title: La Testnet Preview (StoneVan) sarà rilasciata il
 testnet-preview.released-event-title: La nostra Testnet Preview è stata rilasciata!
-testnet-preview.released-title: LA Testnet Preview è stata rilasciata il
+testnet-preview.released-title: La Testnet Preview è stata rilasciata il
+topbar.announcements: AVVISI
 topbar.blog: BLOG
 topbar.careers: CARRIERE
 topbar.charity: DONAZIONI
@@ -254,6 +249,5 @@ topbar.home: HOME
 topbar.login: ACCEDI
 topbar.logout: ESCI
 topbar.white-paper: WHITE PAPER
-topbar.announcements: NOVITÀ
 whitepaper.button.next: PROSSIMO
 whitepaper.button.previous: PRECEDENTE
