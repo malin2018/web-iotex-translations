@@ -23,16 +23,16 @@ charity-dorahacks.tweet.summary.image: 'https://s3.amazonaws.com/web-iotex-stati
 charity.donated: Пожертвовал(а)
 charity.more-info: Узнать больше о Благотворительных Программах IoTeX
 charity.question: Как я узнал(а) о IoTeX? Чем меня заинтересовал проект?
-charity.share-message: Расскажите другим о своем акте доброты!
+charity.share-message: Поделись своими добрыми поступками!
 charity.to: для
 charity.tweet.summary.description: >-
-  Мы ценим ваше большое и доброе сердце! Помимо 16,000 очков что вы получили от
-  нас в качестве подарка, мы опубликовали ваше доброе дело на нашем сайте!
+  Мы ценим ваше большое и доброе сердце! Помимо фиксированного благодарственного подарка в количестве 16,000 поинтов
++  , мы опубликуем ваши добрые поступки на веб-сайте IoTeX!
 charity.tweet.summary.image: >-
   https://s3.amazonaws.com/web-iotex-static/home/1st-charity-twitter-summary-image-v2.png
 charity.tweet.summary.title: Вы на доске почета IoTeX!
 claim.btn: ПОЛУЧИТЬ ОЧКИ
-contact.btn: СВЯЖИТЕСЬ С НАМИ
+contact.btn: СВЯЗАТЬСЯ С НАМИ
 contact.desc: Эксперты IoTeX готовы ответить на все ваши вопросы support@iotex.io
 contact.title: ОСТАВАЙТЕСЬ НА СВЯЗИ
 doraHacks: DoraHacks
@@ -64,19 +64,19 @@ hall-of-fame.badge-section.eth-foundation.desc: >-
   убежден, что мы можем развивать инновации в блокчейне, с помощью тщательных
   исследований и взаимного сотрудничества. Благодаря талантливым людям,
   работающим в этой сфере по всему миру, мы сможем воплотить все самые смелые
-  проекты! Небольшой, но хороший способ как вы можете помочь — пожертвовать ETH
-  в Фонд Эфириум, чтобы и дальше способствовать финансированию исследований в
-  блокчейне. Все подробности об участии, вы найдете в нашей официальной группе
+  проекты! Маленький, но мощный способ помочь - это пожертвовать ETH
+ в фонд Ethereum, помогающий финансировать исследования блокчейн. Все подробности об участии, 
+вы найдете в нашей официальной группе
   <a target="_blank" href="https://t.me/IoTeXGroup">Telegram Group</a> , не
   забывайте следить за прикрепленными сообщениями. Все подробности и детали <a
   target="_blank"
   href="https://medium.com/@iotex/iotex-1st-charity-program-update-d1959e67e756">Обзор
-  первой Б лаготворительной Программы IoTeX</a>.
+  первой Благотворительной Программы IoTeX</a>.
 hall-of-fame.badge-section.participation-detail: >-
   For participation detail, please join official <a target="_blank"
   href="https://t.me/IoTeXGroup">Telegram Group</a> and stay tuned to the pinned
   messages.
-hall-of-fame.badge-section.title: IoTeX 1st Charity Program — Фонд Эфириум
+hall-of-fame.badge-section.title: 1-ая Благотворительная Программа IoTeX  — Фонд ETH
 hall-of-fame.search.label: Найдите введя ваш hashid или указанное дисплей имя
 hall-of-fame.thank-you.message: >-
   Краудсорсинг, как способ финансирования конкретной цели благотворительности не
@@ -104,7 +104,7 @@ home.about.inno.1.desc.keep: >-
 home.about.inno.1.title.keep: Блокчейн в Блокчейне
 home.about.inno.2.desc.keep: >-
   Максимизируйте конфиденциальность с помощью инновационных криптографических
-  схем, таких как легкий стелс адрес и постоянная кольцевая подпись
+  схем, таких как легковесные скрытые адреса и постоянная кольцевая подпись
 home.about.inno.2.title.keep: Встроенные методы сохранения конфиденциальности
 home.about.inno.3.desc.keep: >-
   Децентрализованная Автономная Организация для IoT, код - закон для мира
@@ -130,11 +130,9 @@ home.alina.name.keep: Alina Burya
 home.alina.title.keep: Community Manager
 home.decentralized-protocol: Децентрализованная Сеть для Интернета Вещей
 home.dustin.desc.keep: >-
-  Имеет степень Доктора Философии в Безопасности Данных, учился в USC
-  (Университет Южной Калифорнии). Работал как Инженер-Программист в Intel. Имеет
-  12 лет опыта работы в распределенных системах, защите контента, аппаратном
-  видео ускорении, потоковом сетевом видео и графических драйверах. Энтузиаст
-  криптографии и блокчейна.
+  Доктор наук по безопасности данных в USC. Инженер-программист в Intel. 12-ти
+ летний опыт в распределенных системах, защите данных, аппаратном видео
+ ускорении, потоковом сетевом видео, графическом драйвере. Криптограф и блокчейн энтузиаст.
 home.dustin.name.keep: Dustin Xie
 home.dustin.title.keep: Блокчейн Инженер
 home.fan.desc.keep: >-
