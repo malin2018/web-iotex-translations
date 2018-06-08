@@ -291,13 +291,17 @@ topbar.logout: LOGOUT
 topbar.white-paper: WHITE PAPER
 whitepaper.button.next: NEXT
 whitepaper.button.previous: PREVIOUS
-profile.eth.new: Please enter your mew ETH address
+profile.eth.new: Please enter your new ETH address
 profile.eth.verify: Verify your ETH address
 profile.eth.invalid: Please enter a valid ETH address.
-profile.eth.success: Your ETH address has been updated.
+profile.eth.verified: Your ETH address has been verified.
+profile.message.verify: VERIFY
+profile.eth.updated: Your ETH address has been updated.
 profile.message.submit: SUBMIT
 profile.message.ok: OK
-profile.message.loading: Loading
 profile.eth.verification_msg: Message
-profile.eth.signature: Signature
+profile.eth.signature_old: Signature (by your old ETH address)
+profile.eth.signature_new: Signature (by your ETH address)
 profile.message.generate: Generate
+profile.eth.expiration: Expire at
+profile.eth.new_eth: New ETH address
