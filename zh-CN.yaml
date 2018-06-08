@@ -87,6 +87,12 @@ home.about.sol.desc1: >-
 home.about.sol.desc2: >-
   IoTeX将通过在物联网世界中推广通证经济解决这一问题。我们坚信加密通证激励与社区建设是推动物联网领域创新的两个关键要素。
   简而言之，IoTeX致力于以轻量级、私密性和易扩展的颠覆式区块链底层技术，构建支持物联网应用的下一代区块链平台。
+home.alina.desc.keep: >-
+  Marketing, sales and project management experience in corporate and government
+  sectors. BComm in International Business and Certificate in Project
+  Management. Cryptocurrency and start-up enthusiast.
+home.alina.name.keep: Alina Burya
+home.alina.title.keep: Community Manager
 home.decentralized-protocol: 去中心化的物联网平台
 home.dustin.desc.keep: >-
   南加州大学数据安全博士学位。曾就职于Intel并担任资深软件工程师一职。
@@ -144,6 +150,13 @@ home.section.roadmap: IoTeX.技术路线
 home.section.team: IoTeX.团队
 home.section.teamfrom: IoTeX.团队.背景
 home.section.useceses: IoTeX.案例
+home.zhijie.desc.keep: >-
+  Ph.D in Computer Science at National University of Singapore. 10+ years
+  experience in distributed systems, P2P networks and big data. Committer and
+  PMC of Hadoop and Samza. Member of Apache Software Foundation. 10+
+  publications and patents.
+home.zhijie.name.keep: Zhijie Shen
+home.zhijie.title.keep: Staff Blockchain Engineer
 home.site.description: >-
   A Decentralized Network for Internet of Things (IoT), Powered by a
   Auto-Scalable, Extensible, Private-Centric Blockchain. Connecting the Physical
