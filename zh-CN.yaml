@@ -186,6 +186,8 @@ profile.message.loading: 加载中
 profile.message.not_a_number: 请输入一个合法的数字。
 profile.message.not_enough_points: 您没有足够的积分。
 profile.message.processing: 处理中
+profile.message.no_eth: 请先设置 ETH 地址再进行兑换。
+profile.message.refund: 返还
 profile.receive.amount: 数量
 profile.receive.button: 兑换积分
 profile.receive.menu: 接收
@@ -202,7 +204,8 @@ profile.redeem.success: >-
   Ethereum  network, we will process the applications gradually and finalize all
   point-to-token  redemptions within two weeks.
 profile.redeem.time: 时间
-profile.send.button: 获取兑换码
+profile.refund.success: '%d 积分已返还到您的账户。'
+profile.send.button: 生成兑换码
 profile.send.code: 兑换码
 profile.send.end: 结束时间
 profile.send.left: 剩余
@@ -212,6 +215,8 @@ profile.send.start: 开始时间
 profile.send.success: 已成功生成兑换码。请在下方记录中查看。
 profile.send.time: 创建时间
 profile.send.total: 总额
+profile.wallet.rank: 排名
+profile.wallet.token: 您的 IoTeX 币
 stonevan.twitter: 我参加了IoTeX首个测试网预览庆典活动，获得了100积分。@iotex_io 快来免费领取你的积分吧！
 subscribe.btn: 订阅
 subscribe.desc: 即时获取最新活动消息和项目进展

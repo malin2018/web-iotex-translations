@@ -250,6 +250,8 @@ profile.message.loading: Loading
 profile.message.not_a_number: Please enter a valid number.
 profile.message.not_enough_points: You don't have enough points.
 profile.message.processing: Processing
+profile.message.no_eth: You need an ETH address to redeem.
+profile.message.refund: Refund
 profile.receive.amount: Amount
 profile.receive.button: RECEIVE
 profile.receive.menu: RECEIVE
@@ -266,7 +268,8 @@ profile.redeem.success: >-
   Ethereum  network, we will process the applications gradually and finalize all
   point-to-token  redemptions within two weeks.
 profile.redeem.time: Time
-profile.send.button: SEND
+profile.refund.success: '%d points have been refunded to your account.'
+profile.send.button: GENERATE CODE
 profile.send.code: Code
 profile.send.end: End time
 profile.send.left: Left
@@ -276,6 +279,8 @@ profile.send.start: Start time
 profile.send.success: IoTeX code has been successfully created! You can copy the code below.
 profile.send.time: Create time
 profile.send.total: Total
+profile.wallet.rank: Rank
+profile.wallet.token: Your IoTeX Token
 stonevan.twitter: >-
   I just got 100 free points from IoTeX by celebrating their first Testnet
   Preview release. @iotex_io Come and get yours!
