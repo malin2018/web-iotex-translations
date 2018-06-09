@@ -1,134 +1,114 @@
 about.this.file: >-
   Strings in different locales are auto-generated and maintained by
   locale_strings.js.
-auth.enter_phone_number: Enter phone number
+auth.enter_phone_number: 전화번호를 입력하세요
 auth.enter_verification_code: >-
-  Please enter the 6-digit verification code sent to your phone
+  전송된 6자리 인증번호를 입력하세요
   <strong>%s</strong>
-auth.login: Login
-auth.login_with_mobile: Login with phone number
-auth.login_with_telegram: Login with telegram
-auth.next: Next
-auth.phone_number: Phone Number
+auth.login: 로그인
+auth.login_with_mobile: 전화번호로 로그인
+auth.login_with_telegram: 텔레그램으로 로그인
+auth.next: 다음
+auth.phone_number: 휴대폰 번호
 auth.tab.mobile: Phone(CN)
-auth.tab.telegram: Telegram
-auth.verification_code: Verification Code
-captcha.incorrect_captcha: Wrong captcha
-captcha.loading_captcha: Loading captcha...
-captcha.unknown_error: Something went wrong. Please try again later.
+auth.tab.telegram: 텔레그램
+auth.verification_code: 인증번호
+captcha.incorrect_captcha: 그림 안의 문자가 잘못되었어요. 
+captcha.loading_captcha: 스팸 방지 그림을 불러오는 중입니다.
+captcha.unknown_error: 뭔가 잘못되었네요. 다음에 다시 한 번 부탁 드립니다.
 charity-dorahacks.tweet.summary.description: >-
-  We appreciate your Big Heart! Besides the one-time fixed 12,000 points
-  thank-you gift, now we put your good deed on IoTeX website!
+  큰 성원에 감사 드립니다! 감사를 표하는 12,000 포인트 1회 지급 이외에도, 도움 주신 사항을 IoTeX 웹싸이트에 게재합니다! 
 charity-dorahacks.tweet.summary.image: 'https://s3.amazonaws.com/web-iotex-static/charity/twitter-summary-image.png'
-charity.donated: Donated
-charity.more-info: More About IoTeX Charity Program
-charity.question: How did I know IoTeX? Why I am interested in it?
-charity.share-message: Share Your Act of Kindness!
-charity.to: To
+charity.donated: 기부 완료
+charity.more-info: IoTeX 자선 프로그램 세부사항 
+charity.question: IoTeX를 어떻게 알게 되셨나요? 관심을 가지게 된 이유가 궁금해요. 
+charity.share-message: 호의를 베풀어 주세요! 
+charity.to: 받는 분
 charity.tweet.summary.description: >-
-  We appreciate your Big Heart! Besides the one-time fixed 16,000 points
-  thank-you gift, now we put your good deed on IoTeX website!
+  큰 성원에 감사 드립니다! 감사를 표하는 16,000 포인트 1회 지급 이외에도, 도움 주신 사항을 IoTeX 웹싸이트에 게재합니다! 
 charity.tweet.summary.image: >-
   https://s3.amazonaws.com/web-iotex-static/home/1st-charity-twitter-summary-image-v2.png
-charity.tweet.summary.title: You are on the IoTeX Honor Board!
-claim.btn: CLAIM YOUR POINTS
+charity.tweet.summary.title: 이제 IoTeX의 명예의 전당에 오르셨습니다!
+claim.btn: 포인트를 신청하세요. 
 contact.btn: 문의처
-contact.desc: IoTeX 전문가들은 언제든지 이메일(support@iotex.io)을 통해 귀하의 질문에 답변해 드리겠습니다
-contact.title: 언제든지 연락하십시오
+contact.desc: IoTeX 팀이 이메일(support@iotex.io)을 통해 최대한 빠르게 답변해 드리겠습니다.
+contact.title: IoTeX 팀에 물어봐 주세요.
 doraHacks: DoraHacks
-ethFoundation: Ethereum Foundation
+ethFoundation: 이더리움 재단
 hall-of-fame.badge-section.dorahacks.desc: >-
-  <a target="_blank" href="https://www.dorahacks.com/">DoraHacks</a> is the
-  largest hackathon organizer and hacker developer community in China, and has
-  expanded its footprint in 2018 to 10 countries, including the United States,
-  South Korea, Japan, England, and India. To date, DoraHacks has organized more
-  than 100 hackathons in seven cities around the world, with more than 5,000
-  core hackers and 200,000 global developers in their community. DoraHacks has
-  provided a platform for developers of all skill levels to create more than
-  1,000 applications in their hackathons, and their hackers have gone on to
-  start and lead various blockchain startups, such as ProChain and CorTex — and
-  they are just getting started.
+  <a target="_blank" href="https://www.dorahacks.com/">DoraHacks</a> 은 중국에서 가장 큰 해커톤 주최자 이자 해커 개발자 커뮤니티입니다. 
+  2018년에는 한국, 미국, 일본, 영국, 인도 등 10개 국으로 규모를 확장하고 있습니다. 
+  현재까지, DoraHacks은 세계 각지의 7개 도시에서 약 5천여명 이상의 주요 해커들과 20만여명의 전세계 개발자들과 함께 100회 이상의 해커톤을 진행했습니다. 
+  DoraHacks은 서로 다른 스킬을 가진 개발자들이 해커톤에서 1천여개가 넘는 앱을 제작할 수 있도록 플랫폼을 제공하고 있습니다. 
+  DoraHacks의 해커들은 다양한 블록체인 스타트업을 시작하고 이끌어 가고 있습니다. ProChain이나 이제 막 시작한 CorTex가 그 대표적인 예입니다. 
 
 
-  Check more detail at <a target="_blank"
+  자세한 사항은 여기에서 확인하세요. <a target="_blank"
   href="https://medium.com/iotex/iotex-charity-program-ii-dorahacks-b5828a4c5681">IoTeX
-  2nd Charity Program Update</a>.
-hall-of-fame.badge-section.dorahacks.title: IoTeX 2nd Charity Program — DoraHacks
+  두번째 자선 프로그램 업데이트</a>.
+hall-of-fame.badge-section.dorahacks.title: IoTeX 두번째 자선 프로그램 — DoraHacks
 hall-of-fame.badge-section.eth-foundation.desc: >-
-  <a target="_blank" href="https://www.ethereum.org/foundation">Ethereum</a> has
-  revolutionized the blockchain world for the past four years and made
-  “blockchain” the newest buzzword. As an industry leader, Ethereum has provided
+  <a target="_blank" href="https://www.ethereum.org/foundation">이더리움</a>은 지난 4년간 블록체인 분야에 일대 혁신을 일으키며 "블록체인"이라는 새로운 용어를 만들어냈습니다. 
+  업계의 선봉에 서서, 이더리움은 전체 블록체인 생태계 구축을 위해 다양한 분야를 이끌고 있는 연구, 개발진들을 북돋기 위해 지원금을 제공해왔습니다.    
   <a target="_blank"
   href="https://blog.ethereum.org/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants/">grants</a>
-  to fuel researchers and developers to work on various forefronts to support
-  the entire blockchain ecosystem. IoTeX strongly believes that we can move
-  forward the entire industry through rigorous research and collaboration. We
-  need talents and the brightest minds to make a splash in the world. A small
-  yet powerful way for you to help our cause is to donate ETH to the Ethereum
-  Foundation to help fund blockchain research.
+  IoTeX 팀은 심도 있는 연구와 협업으로 전체 업계를 이끌어 갈 것을 확신합니다. IoTeX 팀은 함께 세상을 깜짝 놀라게 할 유능한 가장 뛰어난 지성인들을 기다립니다. 
+  블록체인 연구를 지원하기 위해 이더리움 재단에 ETH를 기부해 주시면, 작지만 IoTeX 팀에 큰 힘이 됩니다. 
 
 
-  Check more detail at <a target="_blank"
+  자세한 사항은 여기에서 확인하세요. <a target="_blank"
   href="https://medium.com/@iotex/iotex-1st-charity-program-update-d1959e67e756">IoTeX
-  1st Charity Program Update</a>.
+  첫번째 자선 프로그램 업데이트</a>.
 hall-of-fame.badge-section.participation-detail: >-
-  For participation detail, please join official <a target="_blank"
-  href="https://t.me/IoTeXGroup">Telegram Group</a> and stay tuned to the pinned
-  messages.
-hall-of-fame.badge-section.title: IoTeX 1st Charity Program — ETH Foundation
-hall-of-fame.search.label: Search by your hashid or Preferred Display Name
+  저희 IoTeX의 공식 텔레그램 그룹에서 참여하실 수 있습니다. 상단에 고정된 메세지를 확인해 주세요.  <a target="_blank"
+  href="https://t.me/IoTeXGroup"></a> 
+hall-of-fame.badge-section.title: IoTeX 첫번째 자선 프로그램 — ETH 재단
+hall-of-fame.search.label: 본인의 hashid나 별칭으로 검색하세요. 
 hall-of-fame.thank-you.message: >-
-  Crowdsourcing as a way to fund a specific cause for a charity is not new, but
-  IoTeX is doing it via “smart contracts” and redirecting the cryptocurrency
-  hype to charitable causes. In the next few months, under its Community Reward
-  Program, IoTeX will continue selecting a few charity programs that align with
-  IoTeX’s mission of “Connecting the Physical World, Block by Block” as part of
-  IoTeX’s Community Reward Program.
+  특정 자금을 마련하기 위해 기부하는 크라우드소싱은 새로운 것이 아닙니다. 
+  그러나, IoTex는 "스마트 계약" 을 통해 이를 진행하며, 암호화폐의 과열을 자선 기금 활동으로 전환했습니다.
+  향후 몇 달동안, IoTeX는 "한 블럭 한 블럭씩 세상을 연결시켜감"이라는 미션 이행의 일환으로, 
+  자선 프로그램을 선정해서 커뮤니티 보상 프로그램을 계속해 나갈 예정입니다. 
 
 
-  IoTeX believes in growing together with the community and connecting the
-  physical world block by block. It’s a very ambitious goal but it can be
-  achieved with a strong team and supportive community. Together with the
-  community to push the frontier for the development of the blockchain
-  ecosystem, IoTeX truly hopes that the community can understand the original
-  intention and help promote the cause.
-hall-of-fame.title: IoTeX Charity
-home.about.inno.0.desc.keep: '즉각적인 최종성 및 짧은 지연 시간으로 수백만 개의 노드를 지원 친환경적, IoT를 위해 설계'
+  IoTeX팀은 커뮤니티와 함께 성장해가며, 한 블럭 한 블럭씩 세상을 연결시켜 나가고자 합니다. 
+  상당히 야심 찬 목표 입니다. 하지만, 훌륭한 팀원들과 지지해 주시는 커뮤니티를 기반으로 이루어 내고자 합니다. 
+  커뮤니티와 함께 블록체인 생태계를 발전을 최전방에서 이끌어 가고자 합니다. 
+  IoTeX팀은 우리의 초심과 비전이 커뮤니티에 잘 전해져, 관심과 지원으로 함께 목표에 도달 할 수 있도록 노력하겠습니다. 
+hall-of-fame.title: IoTeX 자선
+home.about.inno.0.desc.keep: '즉각적인 최종 응답 및 짧은 대기 시간, 환경친화적으로 설계된 IoT 전용 수백만개의 노드들의 지원' 
 home.about.inno.0.title.keep: 빠른 합의
 home.about.inno.1.desc.keep: >-
-  플라즈마(Plasma)와 마찬가지로, 루트 체인의 상태를 빼내어 프라이버시, 확장성 , 상호운용성을 더욱 강화; 획기적인 교차 체인 기법을
-  적용한 가치 및 데이터의 전송
+  플라즈마(Plasma)처럼, 개인정보 보호, 확장성, 정보 처리 상호 운용을 한층 강화시키는 핵심체인과 서브체인의 분리; 교차 체인의 혁신적 방법을 통한 값 및 데이터 전송
 home.about.inno.1.title.keep: 블록체인 안의 블록체인
-home.about.inno.2.desc.keep: 경량 스텔스 주소 및 일정 크기 링 서명 등과 같은 혁신적인 암호화 기법을 통해 프라이버시 극대화
-home.about.inno.2.title.keep: 내장형 프라이버시 보존 기법
-home.about.inno.3.desc.keep: 'IoT를 위한 탈중앙화 자율 조직, 로봇 세계에서는 코드가 곧 법칙입니다'
-home.about.inno.3.title.keep: 자율 기기 조정
+home.about.inno.2.desc.keep: 가벼운 비밀 주소값(lightweight stealth address)와 동일 사이즈의 링 서명(constant size ring signature) 등의 
+혁신적인 암호화를 통한 개인정보 보호의 극대화
+home.about.inno.2.title.keep: 기본 탑재된 프라이버시 보호 기술
+home.about.inno.3.desc.keep: 'IoT 전용 자율 분산 조직, 로봇 세상의 코드는 곧 법'
+home.about.inno.3.title.keep: 자율적 기기 조작 
 home.about.sol.desc1: >-
-  사물인터넷(IoT)은 빠른 진화에도 불구하고 낮은 확장성, 높은 운영비, 프라이버시 염려, 기능적 가치의 부족 등의 문제 때문에
-  대중화되기까지는 아직 갈 길이 멀고 새로운 사용자를 생태계로 끌어들일 만 한 "킬러 애플리케이션"이 부족합니다.
+  IoT는 빠른 진화에도 불구하고, 낮은 확장성, 높은 운영비, 개인정보 보호 우려, 기능적 가치의 부재 등의 문제 때문에
+  대중화되기까지는 아직 갈 길이 멀고 새로운 사용자들을 생태계로 유인할 "킬러 애플리케이션"이 부족합니다.
 home.about.sol.desc2: >-
-  IoTeX는 사물 인터넷 공간에 토큰 이코노미(token economy)를 도입하여 이러한 문제를 해결하고 있습니다. 저희는 암호화폐 장려와
-  커뮤니티의 노력이 IoT 공간의 혁신을 이끄는 두 가지 핵심 원동력이라고 굳게 믿고 있기 때문이죠. 요컨대 IoTeX는 새로운 IoT
-  애플리케이션과 생태계를 위한 강력한 확장성, 프라이버시, 격리성, 개발 가능성을 갖춘 차세대 IoT 지향적 블록체인 플랫폼입니다.
-home.alina.desc.keep: >-
-  Marketing, sales and project management experience in corporate and government sectors. BComm in International
-  Business and Certificate in Project Management. Cryptocurrency and start-up enthusiast.
-home.alina.name.keep: Alina Burya
-home.alina.title.keep: Community Manager
-home.decentralized-protocol: 사물 인터넷을 위한 분산형 네트워크
+  IoTeX는 IoT 세계에 토큰 이코노미(token economy)를 도입하여 이러한 문제를 해결하고자 합니다. IoTeX팀은 암호화폐 인센티브와
+  커뮤니티의 노력이 IoT의 혁신을 이끄는 두 가지 핵심 원동력이라고 생각합니다. 요컨대 IoTeX는  강력한 확장성, 개인정보 보호,  IoT
+  애플리케이션과 생태계를 위한 강력한 확장성, 프라이버시, 분리성, 개발 가능성을 기반으로 새로운 IoT 응용 프로그램 및 생태계를 
+  구축해 나갈 IoT 중심의 차세대 블록체인 플랫폼입니다.
+
+home.decentralized-protocol: IoT용 분산형 네트워크
 home.dustin.desc.keep: >-
-  USC 데이터 보안 박사. Intel 스탭 소프트웨어 엔지니어. 분산형 시스템, 콘텐츠 보호, 하드웨어 동영상 가속, 네트워크 동영상
-  스트리밍, 그래픽 드라이버 분야에서 12년의 경력 보유. 열광적인 암호화 및 블록체인 지지자.
+  Ph.D in Data Security at USC. Staff software engineer at Intel. 12 years of expertise in distributed systems, content protection, 
+  hardware video acceleration, network video streaming, graphics driver. Cryptography and blockchain enthusiast.
 home.dustin.name.keep: Dustin Xie
-home.dustin.title.keep: 블록체인 엔지니어
+home.dustin.title.keep: Blockchain Engineer
 home.fan.desc.keep: >-
-  이전에 Sequoia Capital China 창립 파트너 역임, DFJ ePlanet Ventures 중국 영업 이사. 포브스에서 매년
-  발표하는 중국의 마이다스 리스트에서 최고의 벤처 투자가 중 한 명으로 선정.
+  Previously served as a Founding Partner of Sequoia Capital China, and a Director of DFJ ePlanet Ventures. 
+  Ranked by Forbes as one of leading venture capitalists in its annual China's Midas List.
 home.fan.name.keep: Fan Zhang
 home.fan.title.keep: null
 home.guang.desc.keep: >-
-  IEEE 석학회원. 캐나다 워털루 대학교 교수. 암호학 및 경량 암호화, 애드혹 네트워크 및 전파 식별(RFID) 보안 분야에서 최고의
-  과학자.
+  IEEE Fellow. Professor in University of Waterloo, Canada. 
+  Top Scientist in cryptography and lightweight cryptography, ad hoc network and Radio Frequency Identification (RFID) security.
 home.guang.name.keep: Guang Gong
 home.guang.title.keep: null
 home.hao.desc.keep: >-
@@ -137,45 +117,45 @@ home.hao.desc.keep: >-
 home.hao.name.keep: Hao Cui
 home.hao.title.keep: Software Engineer Intern
 home.jack.desc.keep: >-
-  HCM Capital, Foxconn Technology Group의 창립 전무 이사, Chained Finance Ltd. 공동 창립자 및
-  상무 이사. FnConn 창립자 및 상무 이사, Abra 이사.
+  Co-Founding Managing Partner of HCM Capital, Foxconn Technology Group. 
+  Co-Founder and Executive Director of Chained Finance Ltd., Founder & Executive Director of FnConn, and Board Director of Abra.
 home.jack.name.keep: Jack Lee
 home.jack.title.keep: null
 home.jing.desc.keep: >-
-  첨단 기술에 주력하는 Sparkland Capital의 창립 파트너. 블록체인, 보안, IoT에서 40건 이상의 투자와 혁신을 주도. 수많은
-  기업에서 이사직 역임. 신규 업체, 투자, 생태계 조성에서 광범위한 경력 보유.
+  Founding partner of Sparkland Capital, focusing on Frontier Tech, lead 40+ investments and innovations in blockchain, security and IoT. 
+  Board director on numerous companies. Extensive experience in startup, investments and building up ecosystem.
 home.jing.name.keep: Jing Sun
-home.jing.title.keep: 공동 창립자
+home.jing.title.keep: Co-founder
 home.larry.desc.keep: >-
   Management consultant at Oliver Wyman, specialized in digital operations. Dual
   B.S. in Finance & Economics, minor in Visual Arts & Design from MIT.
   Blockchain and IoT enthusiast.
 home.larry.name.keep: Larry Pang
 home.larry.title.keep: Growth & Community
-home.monika.desc.keep: '사이버 보안, 개인정보 보호, 네트워킹 및 신흥 기술 분야에서 깊이 있는 전문지식을 갖춘 기술 통신 전문가.'
+home.monika.desc.keep: Technology communications specialist with deep expertise in cybersecurity, privacy, networking and emerging technologies.
 home.monika.name.keep: Monika Hathaway
-home.monika.title.keep: 통신
+home.monika.title.keep: Communication
 home.nick.desc.keep: >-
   Master in Computer Science at USC and Bachelor at University of Wisconsin-
   Madison. Web development, blockchain and machine learning enthusiast.
 home.nick.name.keep: Nick Chen
-home.nick.title.keep: 풀스택 인턴
+home.nick.title.keep: Full Stack Intern
 home.paddy.desc.keep: >-
-  Microsoft 책임 소프트웨어 엔지니어이며 분산형 시스템을 전문으로 합니다. 공개 소스 프로젝트에 활동적인 기여를 하고 있습니다. 예일
-  대학교 컴퓨터 과학 석사.
+  Senior Software Engineer at Microsoft, specialized in distributed systems. 
+  Active contributor to open source projects. M.S. Computer Science at Yale University.
 home.paddy.name.keep: Paddy Kan
-home.paddy.title.keep: 분산형 시스템
+home.paddy.title.keep: Distributed Systems
 home.powered-by: 프라이버시 중심의 블록체인에 의해 작동
 home.qevan.desc.keep: >-
-  싱가포르 국립대학교 기계 학습 및 컴퓨터 비전 박사. Facebook 엔지니어링 관리자 및 연구가. 그로스 해커. 신규 업체 투자가 및
-  자문위원. 20건 이상의 간행물/특허.
+  Ph.D in Machine Learning and Computer Vision at National University of Singapore. 
+  Engineering Manager and Research Scientist at Facebook. Growth Hacker. Startup investor and advisor. 20+ publications / patents.
 home.qevan.name.keep: Qevan Guo
-home.qevan.title.keep: 공동 창립자
+home.qevan.title.keep: Co-founder
 home.raullen.desc.keep: >-
-  워털루 대학교 암호학 박사 및 연구가. Uber의 암호 R&D 책임자, Google 보안 엔지니어. 암호화 및 블록체인 분야에서 8년 이상의
-  경력 보유.
+  Ph.D and Research Scientist in Cryptography at UWaterloo. Head of Crypto R&D at Uber, Security Engineer at Google. 
+  8+ years of experience in cryptography and blockchain.
 home.raullen.name.keep: Raullen Chai
-home.raullen.title.keep: 공동 창립자
+home.raullen.title.keep: Co-founder
 home.section.advisors: IoTeX.Advisors
 home.section.arch: IoTeX.Architecture
 home.section.innovations: IoTeX.Innovations
@@ -185,16 +165,11 @@ home.section.roadmap: IoTeX.Tech.Roadmap
 home.section.team: IoTeX.Team
 home.section.teamfrom: IoTeX.Team.Background
 home.section.useceses: IoTeX.UseCases
-home.zhijie.desc.keep: >-
-  Ph.D in Computer Science at National University of Singapore. 10+ years experience in distributed systems,
-  P2P networks and big data. Committer and PMC of Hadoop and Samza. Member of Apache Software Foundation. 10+ publications and patents.
-home.zhijie.name.keep: Zhijie Shen
-home.zhijie.title.keep: Staff Blockchain Engineer
 home.site.description: >-
   A Decentralized Network for Internet of Things (IoT), Powered by a
   Auto-Scalable, Extensible, Private-Centric Blockchain. Connecting the Physical
   World, Block by Block.
-home.slogan: 블록 단위로 실제 세상을 연결합니다
+home.slogan: 한 블럭 한 블럭씩 세상을 연결합니다.
 home.title: IoTeX
 home.vedaad.desc.keep: >-
   Student at UC Berkeley studying EECS and Applied Math; blockchain  researcher
@@ -205,10 +180,10 @@ home.vincent.desc.keep: Vincent Vuong
 home.vincent.name.keep: Vincent Vuong
 home.vincent.title.keep: Software Engineer Intern
 home.xinxin.desc.keep: >-
-  워털루 대학교 암호학 박사. Bosch Research 수석 기술 연구원. 정보 보안 및 암호 분야의 연구 및 업계에서 14년의 경력 보유.
-  40건 이상의 간행물/특허.
+  Ph.D in Cryptography at UWaterloo. Sr. Research Engineer at Bosch Research. 
+  14 years of research and industry experience in information security and crypto. 40+ publications / patents.
 home.xinxin.name.keep: Xinxin Fan
-home.xinxin.title.keep: 암호화 책임자.
+home.xinxin.title.keep: Head of Cryptography
 home.zhefeng.desc.keep: >-
   Master in Computer Science at University of California San Diego and Bachelor
   in Mathematics and Computer Science at University of Wisconsin-Madison.
@@ -220,69 +195,63 @@ home.zhen.desc.keep: >-
   cryptocurrency and machine learning enthusiast.
 home.zhen.name.keep: Zhen Li
 home.zhen.title.keep: Software Engineer Intern
-profile.history.category: Category
-profile.history.menu: HISTORY
-profile.history.point: Point
-profile.history.time: Time
-profile.info.eth_address: ETH Address
-profile.info.phone_number: Phone
-profile.info.telegram_account_id: Telegram
-profile.message.back: BACK
-profile.message.copied: The code has been copied to your clipboard.
-profile.message.copy: Copy
-profile.message.less_than_100_points: You need at least 100 points to submit a request.
+profile.history.category: 카테고리
+profile.history.menu: 이용내역
+profile.history.point: 포인트
+profile.history.time: 시간 
+profile.info.eth_address: ETH 주소
+profile.info.phone_number: 전화번호
+profile.info.telegram_account_id: 텔레그램
+profile.message.back: 이전
+profile.message.copied: 코드가 클립보드에 복사 되었습니다.
+profile.message.copy: 복사하기
+profile.message.less_than_100_points: 진행을 위해서 최소 100 포인트가 필요합니다. 
 profile.message.loading: Loading
-profile.message.not_a_number: Please enter a valid number.
-profile.message.not_enough_points: You don't have enough points.
-profile.message.processing: Processing
-profile.message.no_eth: You need an ETH address to redeem.
-profile.message.refund: Refund
-profile.receive.amount: Amount
-profile.receive.button: RECEIVE
-profile.receive.menu: RECEIVE
-profile.receive.prompt: ENTER THE CODE
-profile.receive.success: Congratulations! You just received %d points. See the table below for details.
-profile.receive.time: Time
-profile.redeem.amount: Amount
-profile.redeem.button: SUBMIT APPLICATION
-profile.redeem.menu: REDEEM TOKEN
-profile.redeem.prompt: ENTER THE AMOUNT YOU WANT TO REDEEM TO IOTX
-profile.redeem.status: Status
+profile.message.not_a_number: 유효한 숫자를 입력하세요.
+profile.message.not_enough_points: 포인트가 부족합니다. 
+profile.message.processing: 처리중 
+profile.receive.amount: 금액
+profile.receive.button: 받기
+profile.receive.menu: 받기
+profile.receive.prompt: 코드를 입력하세요.
+profile.receive.success: 축하해요! 방금 %d 포인트를 확보하셨습니다. 세부사항은 아래 테이블에서 확인해주세요. 
+profile.receive.time: 시간
+profile.redeem.amount: 금액
+profile.redeem.button: 제출
+profile.redeem.menu: 토큰 교환하기
+profile.redeem.prompt: 교환하고자 하는 IOTX의 금액을 입력하세요.
+profile.redeem.status: 진행 상황
 profile.redeem.success: >-
-  Your application has been accepted and in the queue! To avoid congestion on
-  Ethereum  network, we will process the applications gradually and finalize all
-  point-to-token  redemptions within two weeks.
-profile.redeem.time: Time
-profile.refund.success: '%d points have been refunded to your account.'
-profile.send.button: GENERATE CODE
-profile.send.code: Code
-profile.send.end: End time
-profile.send.left: Left
-profile.send.menu: SEND
-profile.send.prompt: ENTER THE AMOUNT YOU WANT TO SEND
-profile.send.start: Start time
-profile.send.success: IoTeX code has been successfully created! You can find the code below.
-profile.send.time: Create time
-profile.send.total: Total
-profile.wallet.rank: Rank
-profile.wallet.token: Your IoTeX Token
+  신청서가 등록되어, 순서를 기다리는 중입니다. 이더리움 네트워크의 혼잡성을 피하기 위해, 신청서를 순차적으로 처리합니다.
+  포인트의 토큰 전환은 2주 안에 진행 완료 됩니다. 
+profile.redeem.time: 시간
+profile.send.button: 보내기
+profile.send.code: 코드
+profile.send.end: 종료 시간
+profile.send.left: 왼쪽
+profile.send.menu: 보내기
+profile.send.prompt: 보내고자 하는 금액을 입력하세요. 
+profile.send.start: 시작 시간
+profile.send.success: IoTeX 코드가 생성되었습니다! 하단의 코드를 확인하세요. 
+profile.send.time: 시간 생성
+profile.send.total: 합
 stonevan.twitter: >-
   I just got 100 free points from IoTeX by celebrating their first Testnet
   Preview release. @iotex_io Come and get yours!
 subscribe.btn: 구독
-subscribe.desc: 당사의 최근 진척상황 및 이벤트를 알아보십시오.
-subscribe.title: 항상 최신 정보를 받으십시오
-testnet-preview.home-title: Testnet Preview (StoneVan) will be released on
-testnet-preview.released-event-title: Our Testnet Preview Has Been Released!
-testnet-preview.released-title: Testnet Preview Has Been Released On
-topbar.account: ACCOUNT
-topbar.announcements: ANNOUNCEMENTS
+subscribe.desc: 최근 진행사항과 이벤트 안내
+subscribe.title: 새 소식을 놓치지 마세요. 
+testnet-preview.home-title: 테스트넷 미리보기(StoneVan)가 공개될 예정입니다.  
+testnet-preview.released-event-title: 테스트넷 미리보기가 공개 되었습니다! 
+testnet-preview.released-title: 테스트넷 미리보기가 공개 되었습니다. 
+topbar.account: 계정
+topbar.announcements: 새소식 
 topbar.blog: 블로그
-topbar.careers: 인재채용
+topbar.careers: 채용 안내내
 topbar.charity: 자선
 topbar.faq: FAQ
 topbar.home: 홈
-topbar.logout: LOGOUT
+topbar.logout: 로그아웃
 topbar.white-paper: 백서
-whitepaper.button.next: NEXT
-whitepaper.button.previous: PREVIOUS
+whitepaper.button.next: 다음
+whitepaper.button.previous: 이전
