@@ -248,3 +248,17 @@ topbar.logout: 退出
 topbar.white-paper: 白皮书
 whitepaper.button.next: 下一页
 whitepaper.button.previous: 上一页
+profile.eth.new: 请输入您的新 ETH 地址
+profile.eth.verify: 验证您的 ETH 地址
+profile.eth.invalid: 请输入一个合法的 ETH 地址
+profile.eth.verified: 您的 ETH 地址已成功验证
+profile.message.verify: 验证
+profile.eth.updated: 您的 ETH 地址已更新
+profile.message.submit: 提交
+profile.message.ok: 好的
+profile.eth.verification_msg: 消息
+profile.eth.signature_old: 签名（使用您的旧私钥）
+profile.eth.signature_new: 签名（使用您的私钥）
+profile.message.generate: 生成
+profile.eth.expiration: 有效期
+profile.eth.new_eth: 新的 ETH 地址

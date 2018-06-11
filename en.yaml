@@ -323,8 +323,8 @@ profile.eth.updated: Your ETH address has been updated.
 profile.message.submit: SUBMIT
 profile.message.ok: OK
 profile.eth.verification_msg: Message
-profile.eth.signature_old: Signature (by your old ETH address)
-profile.eth.signature_new: Signature (by your ETH address)
+profile.eth.signature_old: Signature (by your OLD private key)
+profile.eth.signature_new: Signature (by your private key)
 profile.message.generate: Generate
 profile.eth.expiration: Expire at
 profile.eth.new_eth: New ETH address
