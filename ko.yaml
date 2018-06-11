@@ -111,8 +111,9 @@ home.about.sol.desc2: >-
   커뮤니티의 노력이 IoT 공간의 혁신을 이끄는 두 가지 핵심 원동력이라고 굳게 믿고 있기 때문이죠. 요컨대 IoTeX는 새로운 IoT
   애플리케이션과 생태계를 위한 강력한 확장성, 프라이버시, 격리성, 개발 가능성을 갖춘 차세대 IoT 지향적 블록체인 플랫폼입니다.
 home.alina.desc.keep: >-
-  Marketing, sales and project management experience in corporate and government sectors. BComm in International
-  Business and Certificate in Project Management. Cryptocurrency and start-up enthusiast.
+  Marketing, sales and project management experience in corporate and government
+  sectors. BComm in International Business and Certificate in Project
+  Management. Cryptocurrency and start-up enthusiast.
 home.alina.name.keep: Alina Burya
 home.alina.title.keep: Community Manager
 home.decentralized-protocol: 사물 인터넷을 위한 분산형 네트워크
@@ -185,11 +186,6 @@ home.section.roadmap: IoTeX.Tech.Roadmap
 home.section.team: IoTeX.Team
 home.section.teamfrom: IoTeX.Team.Background
 home.section.useceses: IoTeX.UseCases
-home.zhijie.desc.keep: >-
-  Ph.D in Computer Science at National University of Singapore. 10+ years experience in distributed systems,
-  P2P networks and big data. Committer and PMC of Hadoop and Samza. Member of Apache Software Foundation. 10+ publications and patents.
-home.zhijie.name.keep: Zhijie Shen
-home.zhijie.title.keep: Staff Blockchain Engineer
 home.site.description: >-
   A Decentralized Network for Internet of Things (IoT), Powered by a
   Auto-Scalable, Extensible, Private-Centric Blockchain. Connecting the Physical
@@ -220,6 +216,23 @@ home.zhen.desc.keep: >-
   cryptocurrency and machine learning enthusiast.
 home.zhen.name.keep: Zhen Li
 home.zhen.title.keep: Software Engineer Intern
+home.zhijie.desc.keep: >-
+  Ph.D in Computer Science at National University of Singapore. 10+ years
+  experience in distributed systems, P2P networks and big data. Committer and
+  PMC of Hadoop and Samza. Member of Apache Software Foundation. 10+
+  publications and patents.
+home.zhijie.name.keep: Zhijie Shen
+home.zhijie.title.keep: Staff Blockchain Engineer
+profile.eth.expiration: Expire at
+profile.eth.invalid: Please enter a valid ETH address.
+profile.eth.new: Please enter your new ETH address
+profile.eth.new_eth: New ETH address
+profile.eth.signature_new: Signature (by your private key)
+profile.eth.signature_old: Signature (by your OLD private key)
+profile.eth.updated: Your ETH address has been updated.
+profile.eth.verification_msg: Message
+profile.eth.verified: Your ETH address has been verified.
+profile.eth.verify: Verify your ETH address
 profile.history.category: Category
 profile.history.menu: HISTORY
 profile.history.point: Point
@@ -230,13 +243,17 @@ profile.info.telegram_account_id: Telegram
 profile.message.back: BACK
 profile.message.copied: The code has been copied to your clipboard.
 profile.message.copy: Copy
+profile.message.generate: Generate
 profile.message.less_than_100_points: You need at least 100 points to submit a request.
 profile.message.loading: Loading
+profile.message.no_eth: You need an ETH address to redeem.
 profile.message.not_a_number: Please enter a valid number.
 profile.message.not_enough_points: You don't have enough points.
+profile.message.ok: OK
 profile.message.processing: Processing
-profile.message.no_eth: You need an ETH address to redeem.
 profile.message.refund: Refund
+profile.message.submit: SUBMIT
+profile.message.verify: VERIFY
 profile.receive.amount: Amount
 profile.receive.button: RECEIVE
 profile.receive.menu: RECEIVE
@@ -264,8 +281,6 @@ profile.send.start: Start time
 profile.send.success: IoTeX code has been successfully created! You can find the code below.
 profile.send.time: Create time
 profile.send.total: Total
-profile.wallet.rank: Rank
-profile.wallet.token: Your IoTeX Token
 stonevan.twitter: >-
   I just got 100 free points from IoTeX by celebrating their first Testnet
   Preview release. @iotex_io Come and get yours!
@@ -286,17 +301,3 @@ topbar.logout: LOGOUT
 topbar.white-paper: 백서
 whitepaper.button.next: NEXT
 whitepaper.button.previous: PREVIOUS
-profile.eth.new: Please enter your new ETH address
-profile.eth.verify: Verify your ETH address
-profile.eth.invalid: Please enter a valid ETH address.
-profile.eth.verified: Your ETH address has been verified.
-profile.message.verify: VERIFY
-profile.eth.updated: Your ETH address has been updated.
-profile.message.submit: SUBMIT
-profile.message.ok: OK
-profile.eth.verification_msg: Message
-profile.eth.signature_old: Signature (by your OLD private key)
-profile.eth.signature_new: Signature (by your private key)
-profile.message.generate: Generate
-profile.eth.expiration: Expire at
-profile.eth.new_eth: New ETH address
