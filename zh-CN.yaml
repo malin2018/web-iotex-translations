@@ -150,13 +150,6 @@ home.section.roadmap: IoTeX.技术路线
 home.section.team: IoTeX.团队
 home.section.teamfrom: IoTeX.团队.背景
 home.section.useceses: IoTeX.案例
-home.zhijie.desc.keep: >-
-  Ph.D in Computer Science at National University of Singapore. 10+ years
-  experience in distributed systems, P2P networks and big data. Committer and
-  PMC of Hadoop and Samza. Member of Apache Software Foundation. 10+
-  publications and patents.
-home.zhijie.name.keep: Zhijie Shen
-home.zhijie.title.keep: Staff Blockchain Engineer
 home.site.description: >-
   A Decentralized Network for Internet of Things (IoT), Powered by a
   Auto-Scalable, Extensible, Private-Centric Blockchain. Connecting the Physical
@@ -184,6 +177,23 @@ home.zhen.desc.keep: >-
   cryptocurrency and machine learning enthusiast.
 home.zhen.name.keep: Zhen Li
 home.zhen.title.keep: Software Engineer Intern
+home.zhijie.desc.keep: >-
+  Ph.D in Computer Science at National University of Singapore. 10+ years
+  experience in distributed systems, P2P networks and big data. Committer and
+  PMC of Hadoop and Samza. Member of Apache Software Foundation. 10+
+  publications and patents.
+home.zhijie.name.keep: Zhijie Shen
+home.zhijie.title.keep: Staff Blockchain Engineer
+profile.eth.expiration: 有效期
+profile.eth.invalid: 请输入一个合法的 ETH 地址
+profile.eth.new: 请输入您的新 ETH 地址
+profile.eth.new_eth: 新的 ETH 地址
+profile.eth.signature_new: 签名（使用您的私钥）
+profile.eth.signature_old: 签名（使用您的旧私钥）
+profile.eth.updated: 您的 ETH 地址已更新
+profile.eth.verification_msg: 消息
+profile.eth.verified: 您的 ETH 地址已成功验证
+profile.eth.verify: 验证您的 ETH 地址
 profile.history.category: 类别
 profile.history.menu: 历史记录
 profile.history.point: 积分
@@ -194,13 +204,17 @@ profile.info.telegram_account_id: Telegram 账号
 profile.message.back: 返回
 profile.message.copied: 兑换码已复制到剪贴板
 profile.message.copy: 复制
+profile.message.generate: 生成
 profile.message.less_than_100_points: 您需要至少 100 积分来提交申请。
 profile.message.loading: 加载中
+profile.message.no_eth: 请先设置 ETH 地址再进行兑换。
 profile.message.not_a_number: 请输入一个合法的数字。
 profile.message.not_enough_points: 您没有足够的积分。
+profile.message.ok: 好的
 profile.message.processing: 处理中
-profile.message.no_eth: 请先设置 ETH 地址再进行兑换。
 profile.message.refund: 返还
+profile.message.submit: 提交
+profile.message.verify: 验证
 profile.receive.amount: 数量
 profile.receive.button: 兑换积分
 profile.receive.menu: 接收
@@ -228,8 +242,6 @@ profile.send.start: 开始时间
 profile.send.success: 已成功生成兑换码。请在下方记录中查看。
 profile.send.time: 创建时间
 profile.send.total: 总额
-profile.wallet.rank: 排名
-profile.wallet.token: 您的 IoTeX 币
 stonevan.twitter: 我参加了IoTeX首个测试网预览庆典活动，获得了100积分。@iotex_io 快来免费领取你的积分吧！
 subscribe.btn: 订阅
 subscribe.desc: 即时获取最新活动消息和项目进展
