@@ -326,3 +326,11 @@ topbar.logout: LOGOUT
 topbar.white-paper: WHITE PAPER
 whitepaper.button.next: NEXT
 whitepaper.button.previous: PREVIOUS
+topbar.explorer: EXPLORER
+topbar.research: RESEARCH
+topbar.resource: RESOURCE
+topbar.video: VIDEO
+topbar.press: PRESS RELEASE
+topbar.about: ABOUT
+profile.wallet.token: Your IoTeX Tokens
+profile.wallet.rank: Rank

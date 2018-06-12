@@ -295,3 +295,11 @@ topbar.logout: 로그아웃
 topbar.white-paper: 백서
 whitepaper.button.next: 다음
 whitepaper.button.previous: 이전
+topbar.explorer: EXPLORER
+topbar.research: RESEARCH
+topbar.resource: RESOURCE
+topbar.video: VIDEO
+topbar.press: PRESS RELEASE
+topbar.about: ABOUT
+profile.wallet.token: Your IoTeX Tokens
+profile.wallet.rank: Rank
