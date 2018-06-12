@@ -249,6 +249,7 @@ profile.message.processing: 처리중
 profile.message.refund: Refund
 profile.message.submit: SUBMIT
 profile.message.verify: VERIFY
+profile.points.title: Your IoTeX Points
 profile.receive.amount: 금액
 profile.receive.button: 받기
 profile.receive.menu: 받기
@@ -275,6 +276,8 @@ profile.send.start: 시작 시간
 profile.send.success: IoTeX 코드가 생성되었습니다! 하단의 코드를 확인하세요.
 profile.send.time: 시간 생성
 profile.send.total: 합
+profile.wallet.rank: Rank
+profile.wallet.title: Your IoTeX Tokens
 stonevan.twitter: >-
   I just got 100 free points from IoTeX by celebrating their first Testnet
   Preview release. @iotex_io Come and get yours!
@@ -284,22 +287,19 @@ subscribe.title: 새 소식을 놓치지 마세요.
 testnet-preview.home-title: 테스트넷 미리보기(StoneVan)가 공개될 예정입니다.
 testnet-preview.released-event-title: 테스트넷 미리보기가 공개 되었습니다!
 testnet-preview.released-title: 테스트넷 미리보기가 공개 되었습니다.
+topbar.about: ABOUT
 topbar.account: 계정
 topbar.announcements: 새소식
 topbar.blog: 블로그
 topbar.careers: 채용 안내내
 topbar.charity: 자선
-topbar.faq: FAQ
-topbar.home: 홈
-topbar.logout: 로그아웃
-topbar.white-paper: 백서
-whitepaper.button.next: 다음
-whitepaper.button.previous: 이전
 topbar.explorer: EXPLORER
+topbar.faq: FAQ
+topbar.logout: 로그아웃
+topbar.press: PRESS RELEASE
 topbar.research: RESEARCH
 topbar.resource: RESOURCE
 topbar.video: VIDEO
-topbar.press: PRESS RELEASE
-topbar.about: ABOUT
-profile.wallet.token: Your IoTeX Tokens
-profile.wallet.rank: Rank
+topbar.white-paper: 백서
+whitepaper.button.next: 다음
+whitepaper.button.previous: 이전

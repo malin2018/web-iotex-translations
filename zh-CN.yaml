@@ -215,6 +215,7 @@ profile.message.processing: 处理中
 profile.message.refund: 返还
 profile.message.submit: 提交
 profile.message.verify: 验证
+profile.points.title: 您的 IoTeX Points
 profile.receive.amount: 数量
 profile.receive.button: 兑换积分
 profile.receive.menu: 接收
@@ -242,6 +243,8 @@ profile.send.start: 开始时间
 profile.send.success: 已成功生成兑换码。请在下方记录中查看。
 profile.send.time: 创建时间
 profile.send.total: 总额
+profile.wallet.rank: 排名
+profile.wallet.title: 您的 IoTeX Tokens
 stonevan.twitter: 我参加了IoTeX首个测试网预览庆典活动，获得了100积分。@iotex_io 快来免费领取你的积分吧！
 subscribe.btn: 订阅
 subscribe.desc: 即时获取最新活动消息和项目进展
@@ -249,22 +252,19 @@ subscribe.title: 与我们保持联系
 testnet-preview.home-title: 测试网预览 (StoneVan) 即将发布
 testnet-preview.released-event-title: 我们的测试网预览已经发布！
 testnet-preview.released-title: 我们的测试网预览已经发布
+topbar.about: 关于
 topbar.account: 账户
 topbar.announcements: 公告
 topbar.blog: BLOG
 topbar.careers: 职位
 topbar.charity: 慈善
-topbar.faq: FAQ
-topbar.home: 首页
-topbar.logout: 退出
-topbar.white-paper: 白皮书
-whitepaper.button.next: 下一页
-whitepaper.button.previous: 上一页
 topbar.explorer: EXPLORER
+topbar.faq: FAQ
+topbar.logout: 退出
+topbar.press: 新闻
 topbar.research: 研究
 topbar.resource: 资源
 topbar.video: 视频
-topbar.press: 新闻
-topbar.about: 关于
-profile.wallet.token: IoTeX Tokens
-profile.wallet.rank: 排名
+topbar.white-paper: 白皮书
+whitepaper.button.next: 下一页
+whitepaper.button.previous: 上一页
