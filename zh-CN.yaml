@@ -207,6 +207,7 @@ profile.message.copy: 复制
 profile.message.generate: 生成
 profile.message.less_than_100_points: 您需要至少 100 积分来提交申请。
 profile.message.loading: 加载中
+profile.message.memo: 备注
 profile.message.no_eth: 请先设置 ETH 地址再进行兑换。
 profile.message.not_a_number: 请输入一个合法的数字。
 profile.message.not_enough_points: 您没有足够的积分。
@@ -215,12 +216,13 @@ profile.message.processing: 处理中
 profile.message.refund: 返还
 profile.message.submit: 提交
 profile.message.verify: 验证
+profile.message.view: 查看
 profile.points.title: 您的 IoTeX Points
 profile.receive.amount: 数量
 profile.receive.button: 兑换积分
 profile.receive.menu: 接收
 profile.receive.prompt: 请输入兑换码
-profile.receive.success: 恭喜！成功获取 %d 积分。请在下方记录中查看。
+profile.receive.success: 恭喜！成功获取 %d 积分。
 profile.receive.time: 时间
 profile.redeem.amount: 数量
 profile.redeem.button: 提交申请
@@ -233,15 +235,16 @@ profile.redeem.success: >-
   point-to-token  redemptions within two weeks.
 profile.redeem.time: 时间
 profile.refund.success: '%d 积分已返还到您的账户。'
+profile.send.amount: 数量
 profile.send.button: 生成兑换码
 profile.send.code: 兑换码
 profile.send.end: 结束时间
 profile.send.left: 剩余
+profile.send.memo: 备注（选填）
 profile.send.menu: 发送
 profile.send.prompt: 请输入您想赠送的数额
 profile.send.start: 开始时间
-profile.send.success: 已成功生成兑换码。请在下方记录中查看。
-profile.send.time: 创建时间
+profile.send.success: 已成功生成兑换码。
 profile.send.total: 总额
 profile.wallet.rank: 排名
 profile.wallet.title: 您的 IoTeX Tokens

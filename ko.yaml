@@ -241,6 +241,7 @@ profile.message.copy: 복사하기
 profile.message.generate: Generate
 profile.message.less_than_100_points: 진행을 위해서 최소 100 포인트가 필요합니다.
 profile.message.loading: Loading
+profile.message.memo: Memo
 profile.message.no_eth: You need an ETH address to redeem.
 profile.message.not_a_number: 유효한 숫자를 입력하세요.
 profile.message.not_enough_points: 포인트가 부족합니다.
@@ -249,12 +250,13 @@ profile.message.processing: 처리중
 profile.message.refund: Refund
 profile.message.submit: SUBMIT
 profile.message.verify: VERIFY
+profile.message.view: View
 profile.points.title: Your IoTeX Points
 profile.receive.amount: 금액
 profile.receive.button: 받기
 profile.receive.menu: 받기
 profile.receive.prompt: 코드를 입력하세요.
-profile.receive.success: 축하해요! 방금 %d 포인트를 확보하셨습니다. 세부사항은 아래 테이블에서 확인해주세요.
+profile.receive.success: 축하해요! 방금 %d 포인트를 확보하셨습니다.
 profile.receive.time: 시간
 profile.redeem.amount: 금액
 profile.redeem.button: 제출
@@ -266,15 +268,16 @@ profile.redeem.success: >-
   전환은 2주 안에 진행 완료 됩니다.
 profile.redeem.time: 시간
 profile.refund.success: '%d points have been refunded to your account.'
+profile.send.amount: Amount
 profile.send.button: 보내기
 profile.send.code: 코드
 profile.send.end: 종료 시간
 profile.send.left: 왼쪽
+profile.send.memo: Memo (optional)
 profile.send.menu: 보내기
 profile.send.prompt: 보내고자 하는 금액을 입력하세요.
 profile.send.start: 시작 시간
-profile.send.success: IoTeX 코드가 생성되었습니다! 하단의 코드를 확인하세요.
-profile.send.time: 시간 생성
+profile.send.success: IoTeX 코드가 생성되었습니다!
 profile.send.total: 합
 profile.wallet.rank: Rank
 profile.wallet.title: Your IoTeX Tokens
