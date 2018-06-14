@@ -42,11 +42,11 @@ hall-of-fame.thank-you.message: >
 hall-of-fame.title: IoTeX 慈善活动
 home.about.inno.0.desc.keep: 支持百万量级节点，并具有实时终结、低延迟、操作环境友好的特性，专为物联网设计
 home.about.inno.0.title.keep: 快速共识机制
-home.about.inno.1.desc.keep: 类似Plasma，从主链上剥离状态，以进一步增强隐私保护、可扩展性和互操作性。创新式的价值和数据的跨链传输
+home.about.inno.1.desc.keep: 通过职责分离，明确主区块链和分区块链的分层责任进一步增强区块链的隐私保护，并提高可扩展性和互操作性。创新式的价值和数据的跨链传输
 home.about.inno.1.title.keep: 链中链结构
 home.about.inno.2.desc.keep: 创新性地利用轻量级数据传输隐身地址和恒定体量环签名的加密模式来最大化提升隐私保护
 home.about.inno.2.title.keep: 内置隐私保护技术
-home.about.inno.3.desc.keep: 分布式物联网自治组织，代码是机器世界的法则
+home.about.inno.3.desc.keep: 以分布式自动化的架构设计来支持IoT设备。自动化设备协调源于代码，忠于代码，执行于代码
 home.about.inno.3.title.keep: 自主设备协调
 home.about.sol.desc1: >-
   尽管物联网行业发展迅猛，但碍于其极低的可扩展性、高昂的运营成本、隐私安全、缺乏使用价值等问题，广泛普及物联网还有很长的路要走，吸引新用户加入生态系统的杀手级应用也尚未出现。
@@ -61,14 +61,14 @@ home.dustin.name.keep: Dustin Xie
 home.dustin.title.keep: 区块链工程师
 home.fan.desc.keep: 前红杉中国创始合伙人之一，DFJ ePlanet风投董事. 《福布斯》杂志将他列为中国年度“全球最佳创投人”排行榜的领衔风险投资家之一
 home.fan.name.keep: Fan Zhang
-home.fan.title.keep: 无
+home.fan.title.keep: 
 home.guang.desc.keep: IEEE 研究员。加拿大滑铁卢大学教授。密码学和轻量级密码学、自组织网络和射频识别安全领域顶级科学家
 home.guang.name.keep: Guang Gong
-home.guang.title.keep: 无
+home.guang.title.keep: 
 home.jack.desc.keep: >-
   富士康旗下投资基金HCM Capital创始合伙人，引领集团区块链和加密货币投资。 Chained Finance Ltd.联合创始人兼执行董事。FnConn创始人兼执行董事。Abra董事
 home.jack.name.keep: Jack Lee
-home.jack.title.keep: 无
+home.jack.title.keep: 
 home.jing.desc.keep: >-
   美国前沿科技创业者和天使投资人。Sparkland基金主要成员之一。 领导着超过40项区块链、安全，VR/AR和物联网领域的投资和创新。
   在初创公司、投资和生态建立领域有丰富的经验。
@@ -103,7 +103,7 @@ home.section.team: IoTeX.团队
 home.section.teamfrom: IoTeX.团队.背景
 home.section.useceses: IoTeX.案例
 home.site.description: >-
-  物联网（IoT）的去中心化网络，由一个自动扩展，可扩展，以个人为中心的区块链。通过区块，连接物理世界。
+  面向物联网(IoT)的可自动扩展和以隐私为中心的区块链基础架构。
 home.slogan: 用区块链接世界
 home.xinxin.desc.keep: >-
   加拿大滑铁卢大学电子与计算机工程博士学位。Bosch北美研究与技术中心信息安全与隐私团队的高级研究员。在信息安全与加密方面拥有超过14年研究和行业经验。
@@ -126,5 +126,5 @@ topbar.charity: 慈善
 topbar.faq: FAQ
 topbar.home: 首页
 topbar.white-paper: 白皮书
-whitepaper.button.next: 上一页
-whitepaper.button.previous: 下一页
+whitepaper.button.next: 下一页
+whitepaper.button.previous: 上一页
