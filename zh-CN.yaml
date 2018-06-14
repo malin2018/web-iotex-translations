@@ -1,11 +1,26 @@
 about.this.file: >-
   Strings in different locales are auto-generated and maintained by
   locale_strings.js.
+auth.enter_phone_number: 输入手机号码
+auth.enter_verification_code: 请输入发送到<strong>%s</strong>的六位短信验证码
+auth.login: 登录
+auth.login_with_mobile: 使用手机号登录
+auth.login_with_telegram: 用Telegram登录
+auth.next: 下一步
+auth.phone_number: 手机号码
+auth.tab.mobile: 手机登录
+auth.tab.telegram: Telegram
+auth.verification_code: 验证码
+captcha.incorrect_captcha: 验证码错误
+captcha.loading_captcha: 正在载入人机验证...
+captcha.unknown_error: 未知错误，请稍后重试。
+charity-dorahacks.tweet.summary.description: 感谢你为区块链行业做出的贡献！除了一次性发放12，000积分作为谢礼之外，我们还将在IoTeX官放网站上公示你的善举！
+charity-dorahacks.tweet.summary.image: 'https://s3.amazonaws.com/web-iotex-static/charity/twitter-summary-image.png'
 charity.donated: 捐赠了
 charity.more-info: 了解IoTeX慈善活动更多信息
 charity.question: 我是如何知道IoTeX的？为什么我支持这个项目？
 charity.share-message: 将你的善举分享给更多人！
-charity.to: 向
+charity.to: 给
 charity.tweet.summary.description: 感谢你为区块链行业做出的贡献！除了一次性发放16，000积分作为谢礼之外，我们还将在IoTeX官放网站上公示你的善举！
 charity.tweet.summary.image: >-
   https://s3.amazonaws.com/web-iotex-static/home/1st-charity-twitter-summary-image-v2.png
@@ -14,26 +29,45 @@ claim.btn: 兑换你的积分
 contact.btn: 联系我们
 contact.desc: 如有任何问题，请发邮件至support@iotex.io，IoTeX专家团队将为您解答
 contact.title: 与我们保持联系
+doraHacks: DoraHacks
 ethFoundation: 以太坊基金会
-hall-of-fame.badge-section.title: IoTeX首次慈善活动 - 以太坊基金会
-hall-of-fame.badge-section.unicorn.desc: >
-  在过去的四年，以太坊彻底颠覆了区块链世界，并使得“区块链”成为了炙手可热的流行术语。 作为行业领军人，以太坊为研究人员和开发人员提供<a
-  target="_blank"
-  href="https://blog.ethereum.org/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants/">资助</a>，进行区块链前沿技术革新，从而推动整个区块链生态系统的发展与壮大。
+hall-of-fame.badge-section.dorahacks.desc: >-
+  <a target="_blank" href="https://www.dorahacks.com/">DoraHacks</a> is the
+  largest hackathon organizer and hacker developer community in China, and has
+  expanded its footprint in 2018 to 10 countries, including the United States,
+  South Korea, Japan, England, and India. To date, DoraHacks has organized more
+  than 100 hackathons in seven cities around the world, with more than 5,000
+  core hackers and 200,000 global developers in their community. DoraHacks has
+  provided a platform for developers of all skill levels to create more than
+  1,000 applications in their hackathons, and their hackers have gone on to
+  start and lead various blockchain startups, such as ProChain and CorTex — and
+  they are just getting started.
+
+
+  Check more detail at <a target="_blank"
+  href="https://medium.com/iotex/iotex-charity-program-ii-dorahacks-b5828a4c5681">IoTeX
+  2nd Charity Program Update</a>.
+hall-of-fame.badge-section.dorahacks.title: IoTeX 2nd Charity Program — DoraHacks
+hall-of-fame.badge-section.eth-foundation.desc: >-
+  在过去的四年，<a target="_blank"
+  href="https://www.ethereum.org/foundation">以太坊</a>彻底颠覆了区块链世界，
+  并使得“区块链”成为了炙手可热的流行术语。 作为行业领军人，以太坊为研究人员和开发人员提供<a target="_blank"
+  href="https://blog.ethereum.org/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants/">资助</a>，
+  进行区块链前沿技术革新，从而推动整个区块链生态系统的发展与壮大。
   IoTeX坚信，严谨的研究和协作对推动整个行业的发展起到及其重要的作用。我们需要更多顶尖和杰出人才掀起全球区块链的热潮。
   通过捐赠ETH给以太坊基金会这一微小但意义深远的方式来帮助我们的事业，促进区块链研究和发展。 你可以通过简单而又意义深远的方式 -
   向以太坊基金会捐赠ETH，来帮助我们实现这个目标，从而促进区块链行业的研究和发展。
 
 
-  有关参与细节，请加入<a target="_blank" href="https://t.me/IoTeXGroup">IoTeX官方电报群组</a>
-  并随时留意置顶消息。
-
-
   更多详情请参见 <a target="_blank"
   href="https://medium.com/@iotex/iotex-1st-charity-program-update-d1959e67e756">IoTeX
   首次慈善活动总结报告</a>.
+hall-of-fame.badge-section.participation-detail: >-
+  有关参与细节，请加入<a target="_blank" href="https://t.me/IoTeXGroup">IoTeX官方电报群组</a>
+  并随时留意置顶消息。
+hall-of-fame.badge-section.title: IoTeX首次慈善活动 - 以太坊基金会
 hall-of-fame.search.label: 请输入你的hashid或展示名称进行查询
-hall-of-fame.thank-you.message: >
+hall-of-fame.thank-you.message: >-
   通过众筹方式为慈善机构募集资金并不罕见，但IoTeX通过“智能合约”来实现这一目标，并将站在时代风口之上的加密货币导向到为慈善事业做出贡献。
   结合IoTeX“用区块链接世界”的愿景，在接下来的几个月中，IoTeX将继续甄选慈善机构，推进更多慈善活动，作为社区奖励计划的重要组成部分。
 
@@ -53,6 +87,12 @@ home.about.sol.desc1: >-
 home.about.sol.desc2: >-
   IoTeX将通过在物联网世界中推广通证经济解决这一问题。我们坚信加密通证激励与社区建设是推动物联网领域创新的两个关键要素。
   简而言之，IoTeX致力于以轻量级、私密性和易扩展的颠覆式区块链底层技术，构建支持物联网应用的下一代区块链平台。
+home.alina.desc.keep: >-
+  Marketing, sales and project management experience in corporate and government
+  sectors. BComm in International Business and Certificate in Project
+  Management. Cryptocurrency and start-up enthusiast.
+home.alina.name.keep: Alina Burya
+home.alina.title.keep: Community Manager
 home.decentralized-protocol: 去中心化的物联网平台
 home.dustin.desc.keep: >-
   南加州大学数据安全博士学位。曾就职于Intel并担任资深软件工程师一职。
@@ -64,7 +104,10 @@ home.fan.name.keep: Fan Zhang
 home.fan.title.keep: 
 home.guang.desc.keep: IEEE 研究员。加拿大滑铁卢大学教授。密码学和轻量级密码学、自组织网络和射频识别安全领域顶级科学家
 home.guang.name.keep: Guang Gong
-home.guang.title.keep: 
+home.guang.title.keep: null
+home.hao.desc.keep: 卡内基梅隆大学软件工程硕士在读。
+home.hao.name.keep: Hao Cui
+home.hao.title.keep: 软件工程实习生
 home.jack.desc.keep: >-
   富士康旗下投资基金HCM Capital创始合伙人，引领集团区块链和加密货币投资。 Chained Finance Ltd.联合创始人兼执行董事。FnConn创始人兼执行董事。Abra董事
 home.jack.name.keep: Jack Lee
@@ -82,6 +125,9 @@ home.larry.title.keep: 增长与社区
 home.monika.desc.keep: 专注于技术类媒体传播，在网络安全、隐私、网络和新兴技术方面拥有丰富专业知识。
 home.monika.name.keep: Monika Hathaway
 home.monika.title.keep: 公众传播
+home.nick.desc.keep: 南加州大学计算机硕士，威斯康星大学计算机学士，专注于网站开发，区块链技术和机器学习。
+home.nick.name.keep: Nick Chen
+home.nick.title.keep: 全栈实习生
 home.paddy.desc.keep: 微软高级软件工程师，专攻分布式系统。 开源项目的活跃贡献者。于耶鲁大学获得计算机科学硕士学位
 home.paddy.name.keep: Paddy Kan
 home.paddy.title.keep: 分布式系统
@@ -105,6 +151,15 @@ home.section.useceses: IoTeX.案例
 home.site.description: >-
   面向物联网(IoT)的可自动扩展和以隐私为中心的区块链基础架构。
 home.slogan: 用区块链接世界
+home.title: IoTeX官网
+home.vedaad.desc.keep: >-
+  Student at UC Berkeley studying EECS and Applied Math; blockchain  researcher
+  on the cryptoeconomics team at Blockchain @ Berkeley
+home.vedaad.name.keep: Vedaad Shakib
+home.vedaad.title.keep: Blockchain Engineering Intern
+home.vincent.desc.keep: 加拿大滑铁卢大学计算机科学学士。专注于网络安全和区块链技术。
+home.vincent.name.keep: Vincent Vuong
+home.vincent.title.keep: 软件工程实习生
 home.xinxin.desc.keep: >-
   加拿大滑铁卢大学电子与计算机工程博士学位。Bosch北美研究与技术中心信息安全与隐私团队的高级研究员。在信息安全与加密方面拥有超过14年研究和行业经验。
   拥有40多篇发表文章和专利
@@ -113,6 +168,82 @@ home.xinxin.title.keep: 密码学负责人
 home.zhefeng.desc.keep: 加州大学圣地亚哥分校计算机硕士，威斯康星大学计算机和数学双学位。专注于区块链技术，机器学习和物联网爱好者。
 home.zhefeng.name.keep: Zhefeng Li
 home.zhefeng.title.keep: 区块链工程师
+home.zhen.desc.keep: >-
+  Bachelor in Computer Science at University of Waterloo. Blockchain,
+  cryptocurrency and machine learning enthusiast.
+home.zhen.name.keep: Zhen Li
+home.zhen.title.keep: Software Engineer Intern
+home.zhijie.desc.keep: >-
+  Ph.D in Computer Science at National University of Singapore. 10+ years
+  experience in distributed systems, P2P networks and big data. Committer and
+  PMC of Hadoop and Samza. Member of Apache Software Foundation. 10+
+  publications and patents.
+home.zhijie.name.keep: Zhijie Shen
+home.zhijie.title.keep: Staff Blockchain Engineer
+profile.eth.expiration: 有效期
+profile.eth.invalid: 请输入一个合法的 ETH 地址
+profile.eth.new: 请输入您的新 ETH 地址
+profile.eth.new_eth: 新的 ETH 地址
+profile.eth.signature_new: 签名（使用您的私钥）
+profile.eth.signature_old: 签名（使用您的旧私钥）
+profile.eth.updated: 您的 ETH 地址已更新
+profile.eth.verification_msg: 消息
+profile.eth.verified: 您的 ETH 地址已成功验证
+profile.eth.verify: 验证您的 ETH 地址
+profile.history.category: 类别
+profile.history.menu: 历史记录
+profile.history.point: 积分
+profile.history.time: 时间
+profile.info.eth_address: ETH 地址
+profile.info.phone_number: 手机号码
+profile.info.telegram_account_id: Telegram 账号
+profile.message.back: 返回
+profile.message.copied: 兑换码已复制到剪贴板
+profile.message.copy: 复制
+profile.message.generate: 生成
+profile.message.less_than_100_points: 您需要至少 100 积分来提交申请。
+profile.message.loading: 加载中
+profile.message.memo: 备注
+profile.message.no_eth: 请先设置 ETH 地址再进行兑换。
+profile.message.not_a_number: 请输入一个合法的数字。
+profile.message.not_enough_points: 您没有足够的积分。
+profile.message.ok: 好的
+profile.message.processing: 处理中
+profile.message.refund: 返还
+profile.message.submit: 提交
+profile.message.verify: 验证
+profile.message.view: 查看
+profile.points.title: 您的 IoTeX Points
+profile.receive.amount: 数量
+profile.receive.button: 兑换积分
+profile.receive.menu: 接收
+profile.receive.prompt: 请输入兑换码
+profile.receive.success: 恭喜！成功获取 %d 积分。
+profile.receive.time: 时间
+profile.redeem.amount: 数量
+profile.redeem.button: 提交申请
+profile.redeem.menu: 兑换通证
+profile.redeem.prompt: 请输入您想兑换到IOTX币的数额
+profile.redeem.status: 状态
+profile.redeem.success: >-
+  Your application has been accepted and in the queue! To avoid congestion on
+  Ethereum  network, we will process the applications gradually and finalize all
+  point-to-token  redemptions within two weeks.
+profile.redeem.time: 时间
+profile.refund.success: '%d 积分已返还到您的账户。'
+profile.send.amount: 数量
+profile.send.button: 生成兑换码
+profile.send.code: 兑换码
+profile.send.end: 结束时间
+profile.send.left: 剩余
+profile.send.memo: 备注（选填）
+profile.send.menu: 发送
+profile.send.prompt: 请输入您想赠送的数额
+profile.send.start: 开始时间
+profile.send.success: 已成功生成兑换码。
+profile.send.total: 总额
+profile.wallet.rank: 排名
+profile.wallet.title: 您的 IoTeX Tokens
 stonevan.twitter: 我参加了IoTeX首个测试网预览庆典活动，获得了100积分。@iotex_io 快来免费领取你的积分吧！
 subscribe.btn: 订阅
 subscribe.desc: 获取最新项目进展和活动消息
@@ -120,11 +251,19 @@ subscribe.title: 与我们保持联系
 testnet-preview.home-title: 测试网预览 (StoneVan) 即将发布
 testnet-preview.released-event-title: 我们的测试网预览已经发布！
 testnet-preview.released-title: 我们的测试网预览已经发布
+topbar.about: 关于
+topbar.account: 账户
+topbar.announcements: 公告
 topbar.blog: 博客
 topbar.careers: 职位
 topbar.charity: 慈善
+topbar.explorer: EXPLORER
 topbar.faq: FAQ
-topbar.home: 首页
+topbar.logout: 退出
+topbar.press: 新闻
+topbar.research: 研究
+topbar.resource: 资源
+topbar.video: 视频
 topbar.white-paper: 白皮书
 whitepaper.button.next: 下一页
 whitepaper.button.previous: 上一页
