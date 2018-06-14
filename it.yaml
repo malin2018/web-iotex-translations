@@ -52,7 +52,7 @@ hall-of-fame.badge-section.dorahacks.desc: >-
   come ProChain e CorTex — e sono appena all'inizio.
 
 
-  Altri dettagli su <a target="_blank"
+  Altri dettagli su <a target="_blank" 
   href="https://medium.com/iotex/iotex-charity-program-ii-dorahacks-b5828a4c5681">IoTeX
   2nd Charity Program Update</a>.
 hall-of-fame.badge-section.dorahacks.title: 2° Programma di Beneficenza IoTeX — DoraHacks
@@ -79,21 +79,21 @@ hall-of-fame.badge-section.participation-detail: >-
   href="https://t.me/IoTeXGroup">Gruppo Telegram</a> ufficiale e tieni d'occhio i
   messaggi che vengono messi in evidenza.
 hall-of-fame.badge-section.title: 1° Programma di Beneficanza IoTeX — ETH Foundation
-hall-of-fame.search.label: Cerca in base al tuo hashid oppure al Nickname che hai scelto
+hall-of-fame.search.label: Cerca in base al tuo hashid oppure al nome che hai scelto
 hall-of-fame.thank-you.message: >-
   Il Crowdsourcing come motodo per finanziare una causa specifica per un ente di
   beneficenza non è nuovo, ma IoTeX lo sta facendo tramite “smart contract” e
   reindirizzando la fama delle criptovalute verso iniziative benefiche. Nei
   prossimi mesi, attraverso il suo Programma di Community Reward, IoTeX continuerà
-  a selezionare alcuni programmi di beneficenza in linea con la sua missione
-  di “Connettere il Mondo Fisico, Bloccco per Blocco”, come parte del Programma di
+  a selezionare alcuni programmi di beneficenza in linea con la sua missione di
+  “Connettere il Mondo Fisico, Bloccco per Blocco”, come parte del Programma di
   Community Reward.
 
 
-  IoTex crede nella crescita insieme alla community e nella
-  connessione del mondo fisico blocco per blocco. E' un obiettivo molto ambizioso
-  ma che può essere raggiunto grazie a un team forte e a una community solidale.
-  Insieme per superare la frontiera dello sviluppo dell'ecosistema
+  IoTex crede nella crescita insieme alla community e
+  nella connessione del mondo fisico blocco per blocco. E' un obiettivo molto
+  ambizioso ma che può essere raggiunto grazie a un team forte e a una community
+  solidale. Insieme per superare la frontiera dello sviluppo dell'ecosistema
   blockchain, IoTeX spera davvero che la community capisca l'intento originario e
   contribuisca a promuovere la causa.
 hall-of-fame.title: Donazione IoTeX
@@ -122,16 +122,22 @@ home.about.sol.desc1: >-
 home.about.sol.desc2: >-
   IoTeX sta affrontando questo problema introducendo l'economia dei token nel
   mondo IoT, poiché crediamo fortemente che gli incentivi in cryptovaluta e lo
-  sforzo della community siano le due forze chiave per spingere l'innovazione nello
-  mondo IoT. In breve, IoTeX è la piattaforma blockchain orientata all'IoT di
-  nuova generazione dotata di scalabilità, privacy, isolabilità e programmabilità
-  per l'incubazione di nuove applicazioni ed ecosistemi IoT.
+  sforzo della community siano le due forze chiave per spingere l'innovazione
+  nello mondo IoT. In breve, IoTeX è la piattaforma blockchain orientata all'IoT
+  di nuova generazione dotata di scalabilità, privacy, isolabilità e
+  programmabilità per l'incubazione di nuove applicazioni ed ecosistemi IoT.
+home.alina.desc.keep: >-
+  Esperienza in marketing, vendita e project management società e emministrazioni
+  pubbliche. Laurea in Commercio Internazionale e Diploma in Project Management.
+  Appassionata di Criptovalute e start-up.
+home.alina.name.keep: Alina Burya
+home.alina.title.keep: Community Manager
 home.decentralized-protocol: Una Rete Decentralizata per l'Internet of Things
 home.dustin.desc.keep: >-
-  Dottorato di ricerca in Data Security presso USC. Software engineer nello staff di Intel.
-  12 anni di esperienza nei sistemi distribuiti, protezione dei contenuti,
-  accelerazione hardware video, streaming video di rete, driver grafici.
-  Appassionato di blockchain e crittografia.
+  Dottorato di ricerca in Data Security presso USC. Software engineer nello staff
+  di Intel. 12 anni di esperienza nei sistemi distribuiti, protezione dei
+  contenuti, accelerazione hardware video, streaming video di rete, driver
+  grafici. Appassionato di blockchain e crittografia.
 home.dustin.name.keep: Dustin Xie
 home.dustin.title.keep: Blockchain Engineer
 home.fan.desc.keep: >-
@@ -181,22 +187,23 @@ home.nick.desc.keep: >-
 home.nick.name.keep: Nick Chen
 home.nick.title.keep: Sviluppatore Full Stack Stagista
 home.paddy.desc.keep: >-
-  Senior Software Engineer presso Microsoft, specializzato in sistemi distribuiti.
-  Contribuisce attivamente a progetti open source. Laurea in Computer Science presso
-  L'Università di Yale
+  Software Engineer Senior presso Microsoft, specializzato in sistemi distribuiti.
+  Contribuisce attivamente a progetti open source. Laurea in Computer Science
+  presso L'Università di Yale
 home.paddy.name.keep: Paddy Kan
 home.paddy.title.keep: Sistemi Distribuiti
 home.powered-by: Basata su una Blockchain orientata alla Privacy
 home.qevan.desc.keep: >-
-  Dottorato di Ricerca in Machine Learning e Computer Vision presso la National University di
-  Singapore. Responsabile tecnico e Ricercatore Scientifico su Facebook. Appassionato
-  di informatica. Investitore e consulente di startup. Oltre 20 pubblicazioni/brevetti.
+  Dottorato di Ricerca in Machine Learning e Computer Vision presso la National
+  University di Singapore. Responsabile tecnico e Ricercatore Scientifico su
+  Facebook. Appassionato di informatica. Investitore e consulente di startup.
+  Oltre 20 pubblicazioni/brevetti.
 home.qevan.name.keep: Qevan Guo
 home.qevan.title.keep: Co-Fondatore
 home.raullen.desc.keep: >-
-  Dottorato di Ricerca, Ricercatore Scientifico in Crittografia presso UWaterloo. Responsabile della
-  ricerca e sviluppo sulle Cryptomonete presso Uber, Security Engineer presso
-  Google. Oltre 8 anni di esperienza in crittografia e blockchain.
+  Dottorato di Ricerca, Ricercatore Scientifico in Crittografia presso UWaterloo.
+  Responsabile della ricerca e sviluppo sulle Cryptomonete presso Uber, Security
+  Engineer presso Google. Oltre 8 anni di esperienza in crittografia e blockchain.
 home.raullen.name.keep: Raullen Chai
 home.raullen.title.keep: Co-Fondatore
 home.section.advisors: IoTeX.Consulenti
@@ -225,9 +232,10 @@ home.vincent.desc.keep: >-
 home.vincent.name.keep: Vincent Vuong
 home.vincent.title.keep: Stagista di Ingegneria del Software
 home.xinxin.desc.keep: >-
-  Dottorato di Ricerca in Crittografia presso UWaterloo. Sr. Research Engineer presso Bosch
-  Research. 14 anni di ricerca ed esperienza nel settore della sicurezza delle
-  informazioni e della crittografia. Oltre 40 pubblicazioni/brevetti.
+  Dottorato di Ricerca in Crittografia presso UWaterloo. Sr. Research Engineer
+  presso Bosch Research. 14 anni di ricerca ed esperienza nel settore della
+  sicurezza delle informazioni e della crittografia. Oltre 40
+  pubblicazioni/brevetti.
 home.xinxin.name.keep: Xinxin Fan
 home.xinxin.title.keep: Capo della Crittografia
 home.zhefeng.desc.keep: >-
@@ -237,36 +245,82 @@ home.zhefeng.desc.keep: >-
   automatico e Internet of Things.
 home.zhefeng.name.keep: Zhefeng Li
 home.zhefeng.title.keep: Ingegnere della Blockchain
+home.zhen.desc.keep: >-
+  Laurea breve in Computer Science all'Università di Waterloo. Appassionato di
+  blockchain, criptovalute e machine learning.
+home.zhen.name.keep: Zhen Li
+home.zhen.title.keep: Stagista Ingegnere del Software
+home.zhijie.desc.keep: >-
+  Dottorato di Ricerca in Computer Science alla National University di Singapore.
+  Oltre 10 anni di esperienza in sistemi distribuiti, reti P2P e big data.
+  Committer e PMC di Hadoop e Samza. Membro di Apache Software Foundation. Oltre
+  10 pubblicazioni e brevetti.
+home.zhijie.name.keep: Zhijie Shen
+home.zhijie.title.keep: Ingegnere della Blockchain esperto
+profile.eth.expiration: Scade il
+profile.eth.invalid: Inserisci un indirizzo ETH valido.
+profile.eth.new: Inserisci il tuo nuovo indirizzo ETH
+profile.eth.new_eth: Nuovo indirizzo ETH
+profile.eth.signature_new: Firma (con la tua chiave privata)
+profile.eth.signature_old: Firma (con la tua PRECEDENTE chiave privata)
+profile.eth.updated: Il tuo indirizzo ETH è stato aggiornato
+profile.eth.verification_msg: Messaggio
+profile.eth.verified: Il tuo indirizzo ETH è stato verificato
+profile.eth.verify: Verifica il tuo indirizzo ETH
 profile.history.category: Categoria
 profile.history.menu: STORIA
-profile.history.point: Punti
-profile.history.status: Stato
+profile.history.point: Punto
 profile.history.time: Ora
 profile.info.eth_address: Indirizzo ETH
 profile.info.phone_number: Telefono
 profile.info.telegram_account_id: Telegram
 profile.message.back: INDIETRO
+profile.message.copied: Il codice è stato copiato negli appunti.
+profile.message.copy: Copia
+profile.message.generate: Genera
 profile.message.less_than_100_points: Devi avere almeno 100 punti per inviare una richiesta.
+profile.message.loading: Caricamento
+profile.message.memo: Promemoria
+profile.message.no_eth: Ti serve un indirizzo ETH per riscattare
 profile.message.not_a_number: Inserisci un numero valido.
 profile.message.not_enough_points: Non hai abbastanza punti.
+profile.message.ok: OK
 profile.message.processing: Elaborazione in corso
+profile.message.refund: Rimborsa
+profile.message.submit: INVIA
+profile.message.verify: VERIFICA
+profile.message.view: Vedi
+profile.points.title: I tuoi punti IoTeX
+profile.receive.amount: Quantità
 profile.receive.button: RICEVI
 profile.receive.menu: RICEVI
 profile.receive.prompt: INSERISCI IL CODICE
-profile.receive.success: Congratulazioni! Hai appena ricevuto %s punti.
+profile.receive.success: Congratulazioni! Hai appena ricevuto %d punti.
+profile.receive.time: Ora
+profile.redeem.amount: Quantità
 profile.redeem.button: INVIA RICHIESTA
 profile.redeem.menu: RISCATTA
 profile.redeem.prompt: INSERISCI LA QUANTITÀ CHE VUOI RISCATTARE IN IOTEX
+profile.redeem.status: Stato
 profile.redeem.success: >-
   La tua richiesta è stata accettata ed è in coda! Per evitare congestione sulla
   rete Ethereum, elaboreremo le richieste gradualmente, portando a termine tutte
   le conversioni da punti a IOTX entro due settimane.
-profile.send.button: INVIA
+profile.redeem.time: Ora
+profile.refund.success: '%d punti sono stati rimborsati nel tuo account.'
+profile.send.amount: Quantità
+profile.send.button: GENERA IL CODICE
+profile.send.code: Codice
+profile.send.end: Ora di fine
+profile.send.left: Sinistra
+profile.send.memo: Promemoria (opzionale)
 profile.send.menu: INVIA
 profile.send.prompt: INSERISCI LA QUANTITÀ CHE VUOI INVIARE
-profile.send.success: >-
-  Il codice IoTeX è stato creato con successo! Copia il codice per trasferire
-  punti tra diversi account: %s.
+profile.send.start: Ora di inizio
+profile.send.success: Il codice IoTeX è stato creato con successo!
+profile.send.total: Totale
+profile.wallet.rank: Posizione
+profile.wallet.title: I Tuoi Token IoTeX
 stonevan.twitter: >-
   Ho appena ottenuto 100 punti gratuiti da IoTeX festeggiando la prima versione di
   anteprima della loro Testnet. @iotex_io Vieni e ottieni i tuoi punti!
@@ -276,14 +330,18 @@ subscribe.title: RIMANI AGGIORNATO
 testnet-preview.home-title: La Testnet Preview (StoneVan) sarà rilasciata il
 testnet-preview.released-event-title: La nostra Testnet Preview è stata rilasciata!
 testnet-preview.released-title: La Testnet Preview è stata rilasciata il
+topbar.about: CHI SIAMO
 topbar.account: ACCOUNT
 topbar.announcements: AVVISI
 topbar.blog: BLOG
 topbar.careers: CARRIERE
 topbar.charity: DONAZIONI
+topbar.explorer: EXPLORER
 topbar.faq: FAQ
-topbar.home: HOME
 topbar.logout: ESCI
+topbar.press: COMUNICATO STAMPA
+topbar.research: RICERCA
+topbar.resource: RISORSA
+topbar.video: VIDEO
 topbar.white-paper: WHITE PAPAER
 whitepaper.button.next: PROSSIMO
-whitepaper.button.previous: PRECEDENTE
