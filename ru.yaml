@@ -309,7 +309,7 @@ profile.redeem.time: Time
 profile.refund.success: '%d points have been refunded to your account.'
 profile.send.amount: Amount
 profile.send.button: GENERATE CODE
-profile.send.code: Code
+profile.send.code: Код
 profile.send.end: End time
 profile.send.left: Left
 profile.send.memo: Memo (optional)
