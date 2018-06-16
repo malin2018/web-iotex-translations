@@ -186,12 +186,13 @@ home.zhijie.name.keep: Zhijie Shen
 home.zhijie.title.keep: Staff Blockchain Engineer
 profile.eth.expiration: 有效期
 profile.eth.invalid: 请输入一个合法的 ETH 地址
-profile.eth.new: 请输入您的新 ETH 地址
-profile.eth.new_eth: 新的 ETH 地址
-profile.eth.signature_new: 签名（使用您的私钥）
-profile.eth.signature_old: 签名（使用您的旧私钥）
+profile.eth.update: 更新您的 ETH 地址
+profile.eth.eth_new: 4. 输入您新的 ETH 地址
+profile.eth.signature: 3. 填入您的签名
 profile.eth.updated: 您的 ETH 地址已更新
-profile.eth.verification_msg: 消息
+profile.eth.message: '1. 复制该消息:'
+profile.eth.sign_old: '2. 使用您的旧私钥签名：'
+profile.eth.sign_new: '2. 使用您的私钥签名：'
 profile.eth.verified: 您的 ETH 地址已成功验证
 profile.eth.verify: 验证您的 ETH 地址
 profile.history.category: 类别
@@ -271,3 +272,9 @@ topbar.video: 视频
 topbar.white-paper: 白皮书
 whitepaper.button.next: 下一页
 whitepaper.button.previous: 上一页
+profile.wallet.exchange: 交易所
+profile.message.result: 结果
+profile.message.close: 关闭
+profile.message.sign: 签名
+profile.message.change: 更改
+profile.message.set: 设置

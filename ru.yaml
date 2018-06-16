@@ -258,12 +258,13 @@ home.zhijie.name.keep: Zhijie Shen
 home.zhijie.title.keep: Staff Blockchain Engineer
 profile.eth.expiration: Expire at
 profile.eth.invalid: Please enter a valid ETH address.
-profile.eth.new: Please enter your new ETH address
-profile.eth.new_eth: New ETH address
-profile.eth.signature_new: Signature (by your private key)
-profile.eth.signature_old: Signature (by your OLD private key)
+profile.eth.update: Update your ETH address
+profile.eth.eth_new: 4. Enter your new ETH address
+profile.eth.signature: 3. Fill in the signature
 profile.eth.updated: Your ETH address has been updated.
-profile.eth.verification_msg: Message
+profile.eth.message: '1. Copy the message:'
+profile.eth.sign_old: '2. Sign the message with your OLD private key:'
+profile.eth.sign_new: '2. Sign the message with your private key:'
 profile.eth.verified: Your ETH address has been verified.
 profile.eth.verify: Verify your ETH address
 profile.history.category: Category
@@ -275,7 +276,7 @@ profile.info.phone_number: Phone
 profile.info.telegram_account_id: Telegram
 profile.message.back: BACK
 profile.message.copied: The code has been copied to your clipboard.
-profile.message.copy: Copy
+profile.message.copy: COPY
 profile.message.generate: Generate
 profile.message.less_than_100_points: You need at least 100 points to submit a request.
 profile.message.loading: Loading
@@ -285,10 +286,10 @@ profile.message.not_a_number: Please enter a valid number.
 profile.message.not_enough_points: You don't have enough points.
 profile.message.ok: OK
 profile.message.processing: Processing
-profile.message.refund: Refund
+profile.message.refund: REFUND
 profile.message.submit: SUBMIT
 profile.message.verify: VERIFY
-profile.message.view: View
+profile.message.view: VIEW
 profile.points.title: Your IoTeX Points
 profile.receive.amount: Amount
 profile.receive.button: RECEIVE
@@ -345,3 +346,9 @@ topbar.video: VIDEO
 topbar.white-paper: WHITE PAPER
 whitepaper.button.next: ВПЕРЕД
 whitepaper.button.previous: НАЗАД
+profile.wallet.exchange: Exchanges
+profile.message.result: Result
+profile.message.close: Close
+profile.message.sign: SIGN
+profile.message.change: CHANGE
+profile.message.set: SET
