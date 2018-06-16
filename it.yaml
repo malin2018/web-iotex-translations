@@ -52,7 +52,7 @@ hall-of-fame.badge-section.dorahacks.desc: >-
   come ProChain e CorTex — e sono appena all'inizio.
 
 
-  Altri dettagli su <a target="_blank" 
+  Altri dettagli su <a target="_blank"
   href="https://medium.com/iotex/iotex-charity-program-ii-dorahacks-b5828a4c5681">IoTeX
   2nd Charity Program Update</a>.
 hall-of-fame.badge-section.dorahacks.title: 2° Programma di Beneficenza IoTeX — DoraHacks
@@ -327,6 +327,9 @@ stonevan.twitter: >-
 subscribe.btn: REGISTRATI
 subscribe.desc: Con i nostri eventi e i progressi più recenti.
 subscribe.title: RIMANI AGGIORNATO
+testnet-alpha.home-title: Testnet Alpha (Strive) will be Open Sourced on
+testnet-alpha.released-event-title: Our Testnet Alpha Has Been Released!
+testnet-alpha.released-title: Testnet Alpha Has Been Released On
 testnet-preview.home-title: La Testnet Preview (StoneVan) sarà rilasciata il
 testnet-preview.released-event-title: La nostra Testnet Preview è stata rilasciata!
 testnet-preview.released-title: La Testnet Preview è stata rilasciata il
