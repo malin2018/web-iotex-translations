@@ -291,6 +291,9 @@ subscribe.title: 새 소식을 놓치지 마세요.
 testnet-preview.home-title: 테스트넷 미리보기(StoneVan)가 공개될 예정입니다.
 testnet-preview.released-event-title: 테스트넷 미리보기가 공개 되었습니다!
 testnet-preview.released-title: 테스트넷 미리보기가 공개 되었습니다.
+testnet-alpha.home-title: Testnet Alpha (Strive) will be Open Sourced on
+testnet-alpha.released-event-title: Our Testnet Alpha Has Been Released!
+testnet-alpha.released-title: Testnet Alpha Has Been Released On
 topbar.about: ABOUT
 topbar.account: 계정
 topbar.announcements: 새소식
