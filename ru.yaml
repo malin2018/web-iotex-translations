@@ -277,7 +277,7 @@ profile.info.telegram_account_id: Telegram
 profile.message.back: BACK
 profile.message.change: CHANGE
 profile.message.close: Close
-profile.message.copied: The code has been copied to your clipboard.
+profile.message.copied: copied
 profile.message.copy: COPY
 profile.message.generate: Generate
 profile.message.less_than_100_points: You need at least 100 points to submit a request.

@@ -200,7 +200,7 @@ profile.info.telegram_account_id: Telegram 账号
 profile.message.back: 返回
 profile.message.change: 更改
 profile.message.close: 关闭
-profile.message.copied: 兑换码已复制到剪贴板
+profile.message.copied: 已复制
 profile.message.copy: 复制
 profile.message.generate: 生成
 profile.message.less_than_100_points: 您需要至少 100 积分来提交申请。
