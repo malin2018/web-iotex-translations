@@ -239,7 +239,7 @@ profile.info.telegram_account_id: 텔레그램
 profile.message.back: 이전
 profile.message.change: CHANGE
 profile.message.close: Close
-profile.message.copied: copied
+profile.message.copied: COPIED
 profile.message.copy: 복사하기
 profile.message.generate: Generate
 profile.message.less_than_100_points: 진행을 위해서 최소 100 포인트가 필요합니다.

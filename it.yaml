@@ -275,7 +275,7 @@ profile.info.eth_address: Indirizzo ETH
 profile.info.phone_number: Telefono
 profile.info.telegram_account_id: Telegram
 profile.message.back: INDIETRO
-profile.message.copied: copied
+profile.message.copied: COPIED
 profile.message.copy: Copia
 profile.message.generate: Genera
 profile.message.less_than_100_points: Devi avere almeno 100 punti per inviare una richiesta.
