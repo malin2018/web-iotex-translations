@@ -256,14 +256,15 @@ home.zhijie.desc.keep: >-
   публикаций и патентов.
 home.zhijie.name.keep: Zhijie Shen
 home.zhijie.title.keep: Блокчейн инженер
+profile.eth.eth_new: 4. Enter your new ETH address
 profile.eth.expiration: Истекает в
 profile.eth.invalid: 'Пожалуйста, введите правильный ETH адрес.'
-profile.eth.new: 'Пожалуйста, введите ваш новый ETH адрес'
-profile.eth.new_eth: Новый ETH адрес
-profile.eth.signature_new: Подпись (используя приватный ключ)
-profile.eth.signature_old: Подпись (используя ваш СТАРЫЙ приватный ключ)
+profile.eth.message: '1. Copy the message:'
+profile.eth.sign_new: '2. Sign the message with your private key:'
+profile.eth.sign_old: '2. Sign the message with your OLD private key:'
+profile.eth.signature: 3. Fill in the signature
+profile.eth.update: Update your ETH address
 profile.eth.updated: Ваш ETH адрес был обновлен.
-profile.eth.verification_msg: Сообщение
 profile.eth.verified: Ваш ETH адрес был подтвержден.
 profile.eth.verify: Подтвердите ваш ETH адрес
 profile.history.category: Категория
@@ -274,6 +275,8 @@ profile.info.eth_address: ETH Адрес
 profile.info.phone_number: Телефон
 profile.info.telegram_account_id: Telegram
 profile.message.back: НАЗАД
+profile.message.change: CHANGE
+profile.message.close: Close
 profile.message.copied: Скопировать код.
 profile.message.copy: Скопировать
 profile.message.generate: Генерировать
@@ -321,6 +324,7 @@ profile.send.prompt: ВВЕДИТЕ СУММУ ОЧКОВ ДЛЯ ОТПРАВК�
 profile.send.start: Время начала
 profile.send.success: IoTeX код был успешно сгенерирован!
 profile.send.total: Всего
+profile.wallet.exchange: Exchanges
 profile.wallet.rank: Рейтинг
 profile.wallet.title: Ваши IoTeX токены
 stonevan.twitter: >-
@@ -351,12 +355,3 @@ topbar.video: ВИДЕО
 topbar.white-paper: WHITE PAPER
 whitepaper.button.next: ВПЕРЕД
 whitepaper.button.previous: НАЗАД
-profile.message.change: profile.message.change
-profile.eth.update: profile.eth.update
-profile.message.close: profile.message.close
-profile.eth.message: profile.eth.message
-profile.eth.sign_old: profile.eth.sign_old
-profile.eth.signature: profile.eth.signature
-profile.eth.eth_new: profile.eth.eth_new
-profile.eth.sign_new: profile.eth.sign_new
-profile.wallet.exchange: profile.wallet.exchange
