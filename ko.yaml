@@ -254,7 +254,7 @@ profile.message.refund: REFUND
 profile.message.result: Result
 profile.message.set: SET
 profile.message.sign: SIGN
-profile.message.submit: SUBMIT
+profile.message.submit: Submit
 profile.message.verify: VERIFY
 profile.message.view: VIEW
 profile.points.title: Your IoTeX Points
