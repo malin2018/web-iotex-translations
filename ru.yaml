@@ -1,62 +1,59 @@
 about.this.file: >-
   Strings in different locales are auto-generated and maintained by
   locale_strings.js.
-auth.enter_phone_number: Enter phone number
+auth.enter_phone_number: Введите номер телефона
 auth.enter_verification_code: >-
-  Please enter the 6-digit verification code sent to your phone
+  Пожалуйста введите 6-значный код подтверждения, который был отправлен на ваш номер телефона
   <strong>%s</strong>
-auth.login: Login
-auth.login_with_mobile: Login with phone number
-auth.login_with_telegram: Login with Telegram
-auth.next: Next
-auth.phone_number: Phone Number
-auth.tab.mobile: Phone(CN)
+auth.login: Логин
+auth.login_with_mobile: Войти с помощью номера телефона
+auth.login_with_telegram: Войти через Telegram
+auth.next: Далее
+auth.phone_number: Номер телефона
+auth.tab.mobile: Номеp(CN)
 auth.tab.telegram: Telegram
-auth.verification_code: Verification Code
-captcha.incorrect_captcha: Wrong captcha
-captcha.loading_captcha: Loading captcha...
-captcha.unknown_error: Something went wrong. Please try again later.
+auth.verification_code: Код подтверждения
+captcha.incorrect_captcha: Неверная captcha
+captcha.loading_captcha: Загрузка captcha...
+captcha.unknown_error: Что-то пошло не так. Пожалуйста, попытайтесь позже.
 charity-dorahacks.tweet.summary.description: >-
-  We appreciate your Big Heart! Besides the one-time fixed 12,000 points
-  thank-you gift, now we put your good deed on IoTeX website!
+  Мы ценим ваше большое и доброе сердце!Помимо фиксированного благодарственного подарка 
+  в количестве 12,000 очков, мы опубликовали ваше доброе дело на нашем сайте!
 charity-dorahacks.tweet.summary.image: 'https://s3.amazonaws.com/web-iotex-static/charity/twitter-summary-image.png'
-charity.donated: Пожертвовал(а)
+charity.donated: Пожертвовано
 charity.more-info: Узнать больше о Благотворительных Программах IoTeX
 charity.question: Как я узнал(а) о IoTeX? Чем меня заинтересовал проект?
-charity.share-message: Расскажите другим о своем акте доброты!
+charity.share-message: Поделись своими добрыми поступками!
 charity.to: для
 charity.tweet.summary.description: >-
-  Мы ценим ваше большое и доброе сердце! Помимо 16,000 очков что вы получили от
-  нас в качестве подарка, мы опубликовали ваше доброе дело на нашем сайте!
+  Мы ценим ваше большое и доброе сердце!Помимо фиксированного благодарственного подарка 
+  в количестве 16,000 очков, мы опубликовали ваше доброе дело на нашем сайте!
 charity.tweet.summary.image: >-
   https://s3.amazonaws.com/web-iotex-static/home/1st-charity-twitter-summary-image-v2.png
 charity.tweet.summary.title: Вы на доске почета IoTeX!
 claim.btn: ПОЛУЧИТЬ ОЧКИ
-contact.btn: СВЯЖИТЕСЬ С НАМИ
+contact.btn: СВЯЗАТЬСЯ С НАМИ
 contact.desc: Эксперты IoTeX готовы ответить на все ваши вопросы support@iotex.io
 contact.title: ОСТАВАЙТЕСЬ НА СВЯЗИ
 doraHacks: DoraHacks
-ethFoundation: Фонд Эфириум
+ethFoundation: Фонд Ethereum
 hall-of-fame.badge-section.dorahacks.desc: >-
-  <a target="_blank" href="https://www.dorahacks.com/">DoraHacks</a> is the
-  largest hackathon organizer and hacker developer community in China, and has
-  expanded its footprint in 2018 to 10 countries, including the United States,
-  South Korea, Japan, England, and India. To date, DoraHacks has organized more
-  than 100 hackathons in seven cities around the world, with more than 5,000
-  core hackers and 200,000 global developers in their community. DoraHacks has
-  provided a platform for developers of all skill levels to create more than
-  1,000 applications in their hackathons, and their hackers have gone on to
-  start and lead various blockchain startups, such as ProChain and CorTex — and
-  they are just getting started.
+  <a target="_blank" href="https://www.dorahacks.com/">DoraHacks</a> является крупнейшим 
+  организатором и хакерским сообществом разработчиков в Китае, и в 2018 году, она расширила 
+  свой охват до 10 стран, включая США, Южную Корею, Японию, Англию и Индию. На сегодняшний день, 
+  DoraHacks организовала более 100 хакатонов в семи городах мира, в которых участвовали более 
+  5,000 основных хакеров и 200,000 глобальных разработчиков с их сообщества. DoraHacks 
+  предоставила платформу для разработчиков всех уровней квалификации, чтобы создать более 
+  1,000 приложений во время своих хакатонов, и их хакеры начали запускать различные стартапы 
+  в блокчейне, такие, как ProChain и CorTex, и это только начало.
 
-
-  Check more detail at <a target="_blank"
+  Читайте более подробно об этом здесь <a target="_blank"
   href="https://medium.com/iotex/iotex-charity-program-ii-dorahacks-b5828a4c5681">IoTeX
-  2nd Charity Program Update</a>.
-hall-of-fame.badge-section.dorahacks.title: IoTeX 2nd Charity Program — DoraHacks
+  2-я Благотворительная Программа Обзор</a>.
+hall-of-fame.badge-section.dorahacks.title: IoTeX 2-я Благотворительная Программа — DoraHacks
 hall-of-fame.badge-section.eth-foundation.desc: >-
-  Эфириум за последние четыре года произвел революцию в мире блокчейн и сделал
-  «blockchain» новейшим модным словом. Будучи лидером в индустрии, Фонд Эфириум
+  Ethereum за последние четыре года произвел революцию в мире блокчейн и сделал
+  «blockchain» новейшим модным словом. Будучи лидером в индустрии, Фонд Ethereum
   предоставляет гранты <a target="_blank"
   href="https://blog.ethereum.org/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants/">grants</a>
   чтобы поддерживать исследователей и разработчиков работающих над различными
@@ -71,13 +68,12 @@ hall-of-fame.badge-section.eth-foundation.desc: >-
   забывайте следить за прикрепленными сообщениями. Все подробности и детали <a
   target="_blank"
   href="https://medium.com/@iotex/iotex-1st-charity-program-update-d1959e67e756">Обзор
-  первой Б лаготворительной Программы IoTeX</a>.
+  первой Благотворительной Программы IoTeX</a>.
 hall-of-fame.badge-section.participation-detail: >-
-  For participation detail, please join official <a target="_blank"
-  href="https://t.me/IoTeXGroup">Telegram Group</a> and stay tuned to the pinned
-  messages.
-hall-of-fame.badge-section.title: IoTeX 1st Charity Program — Фонд Эфириум
-hall-of-fame.search.label: Найдите введя ваш hashid или указанное дисплей имя
+  Все подробности об участии, вы найдете в нашей официальной группе <a target="_blank"
+  href="https://t.me/IoTeXGroup">Telegram Group</a> не забывайте следить за прикрепленными сообщениями.
+hall-of-fame.badge-section.title: IoTeX 1-я Благотворительная Программа — Фонд Ethereum
+hall-of-fame.search.label: Поиск по hashid или Предпочтительно Отображаемому Имени
 hall-of-fame.thank-you.message: >-
   Краудсорсинг, как способ финансирования конкретной цели благотворительности не
   в новинку, но IoTeX делает это через «смарт-контракты» и перенаправляет
@@ -98,17 +94,17 @@ home.about.inno.0.desc.keep: >-
   экологичный, предназначенный для IoT
 home.about.inno.0.title.keep: <Быстрый Консенсус
 home.about.inno.1.desc.keep: >-
-  Как и в Plasma, информация и данные собираются из корневой цепи, чтобы еще
+  Подобно Plasma, информация и данные собираются из корневой цепи, чтобы еще
   больше повысить конфиденциальность, масштабируемость и интероперабельность;
   инновационная перекрестная передача данных
 home.about.inno.1.title.keep: Блокчейн в Блокчейне
 home.about.inno.2.desc.keep: >-
-  Максимизируйте конфиденциальность с помощью инновационных криптографических
-  схем, таких как легкий стелс адрес и постоянная кольцевая подпись
+  Максимизация конфиденциальности путём инновационных криптографических схем, 
+  таких как легковесные скрытые адреса и постоянной кольцевой подписи.
 home.about.inno.2.title.keep: Встроенные методы сохранения конфиденциальности
 home.about.inno.3.desc.keep: >-
-  Децентрализованная Автономная Организация для IoT, код - закон для мира
-  роботов
+  "Децентрализованная Автономная Организация для IoT, код - закон для мира
+  роботов"
 home.about.inno.3.title.keep: Автономная Координация Устройств
 home.about.sol.desc1: >-
   Несмотря на свою стремительную эволюцию, IoT еще далек от массового принятия и
@@ -124,15 +120,14 @@ home.about.sol.desc2: >-
   масштабируемостью, конфиденциальностью, изолируемостью и возможностью
   разработки для инкубации новых приложений и экосистем IoT.
 home.alina.desc.keep: >-
-  Marketing, sales and project management experience in corporate and government
-  sectors. BComm in International Business and Certificate in Project
-  Management. Cryptocurrency and start-up enthusiast.
+  Работала в маркетинге, продажах и управлении проектами в корпоративных и правительственных 
+  секторах. Имеет степень бакалавра в коммерции и международном бизнесе и сертификат по 
+  управлению проектами. Энтусиаст криптовалюты и старт-апов.
 home.alina.name.keep: Alina Burya
-home.alina.title.keep: Community Manager
+home.alina.title.keep: Менеджер Сообщества
 home.decentralized-protocol: Децентрализованная Сеть для Интернета Вещей
 home.dustin.desc.keep: >-
-  Имеет степень Доктора Философии в Безопасности Данных, учился в USC
-  (Университет Южной Калифорнии). Работал как Инженер-Программист в Intel. Имеет
+  Доктор наук по безопасности данных в USC. Работал как инженер-программист в Intel. Имеет
   12 лет опыта работы в распределенных системах, защите контента, аппаратном
   видео ускорении, потоковом сетевом видео и графических драйверах. Энтузиаст
   криптографии и блокчейна.
@@ -145,16 +140,15 @@ home.fan.desc.keep: >-
 home.fan.name.keep: Fan Zhang
 home.fan.title.keep: null
 home.guang.desc.keep: >-
-  Член IEEE и профессор в Университете Ватерлоо, Канада. Одна из топовых ученых
-  в области криптографии и легкой криптографии, специальной сети и безопасности
-  радиочастотной идентификации (RFID).
+  Член IEEE и профессор в UWaterloo, Канада. Лучший ученый в области криптографии и легкой 
+  криптографии, специалист сети и безопасности радиочастотной идентификации (RFID)
 home.guang.name.keep: Guang Gong
 home.guang.title.keep: null
 home.hao.desc.keep: >-
-  Master in Software Engineering at Carnegie Mellon University. Web and
-  blockchain enthusiast.
+  Получает степень магистра программного обеспечения в Carnegie Mellon University. Веб и блокчейн 
+  разработчик.
 home.hao.name.keep: Hao Cui
-home.hao.title.keep: Software Engineer Intern
+home.hao.title.keep: Инженер-программист (Интерн)
 home.jack.desc.keep: >-
   Соучредитель и управляющий партнер в HCM Capital, Foxconn Technology Group.
   Соучредитель и исполнительный директор в Chained Finance Ltd., основатель и
@@ -171,38 +165,35 @@ home.jing.title.keep: Соучредитель
 home.larry.desc.keep: >-
   Консультант по вопросам управления в Оливер Уайман, специализирующийся на
   цифровых операциях. У него двойная степень бакалавра в области финансов и
-  экономики, визуальных искусств и дизайна от MIT (Массачусетского
-  Технологического Института). Энтузиаст блокчейна и IoT.
+  экономики, визуальных искусств и дизайна от MIT. Энтузиаст блокчейна и интернета вещей.
 home.larry.name.keep: Larry Pang
-home.larry.title.keep: Продвижение & Комьюнити
+home.larry.title.keep: Развитие и Сообщество
 home.monika.desc.keep: >-
   Специалист по технологическим коммуникациям, обладающая глубокими знаниями в
   области кибербезопасности, конфиденциальности, сетевых и новых технологий.
 home.monika.name.keep: Monika Hathaway
 home.monika.title.keep: PR
 home.nick.desc.keep: >-
-  Master in Computer Science at USC and Bachelor at University of Wisconsin-
-  Madison. Web development, blockchain and machine learning enthusiast.
+  Получает степень магистра в Master in Computer Science at USC and Bachelor at University of 
+  Wisconsin- Madison. Web development, blockchain and machine learning enthusiast.
 home.nick.name.keep: Nick Chen
-home.nick.title.keep: Full Stack Intern
+home.nick.title.keep: Full Stack-разработчик (Интерн)
 home.paddy.desc.keep: >-
-  Старший Инженер-Программист в Microsoft, специализирующийся на распределенных
+  Старший инженер-программист в Microsoft, специализирующийся на распределенных
   системах. Активный участник проектов с открытым исходным кодом. Окончил
-  магистратуру наук в области информатики в Йельском университете.
+  магистратуру в области информатики в Yale University.
 home.paddy.name.keep: Paddy Kan
 home.paddy.title.keep: Распределенные системы
 home.powered-by: Выполняется на блокчейне ориентированным на конфиденциальность
 home.qevan.desc.keep: >-
-  Имеет степень Доктора Философии в Машинном Обучении и Компьютерном Зрении от
-  Национального Университета Сингапура. Инженер-программист и научный сотрудник
-  Facebook. Маркетолог роста. Инвестор и советник в различных стартапах. Имеет
-  20+ публикаций/патентов.
+  Доктор наук в области машинного обучения и компьютерного видения в National University of Singapore.
+  Инженер-программист и научный сотрудник Facebook. Маркетолог роста. Инвестор и советник 
+  в различных стартапах. Имеет 20+ публикаций/патентов.
 home.qevan.name.keep: Qevan Guo
 home.qevan.title.keep: Соучредитель
 home.raullen.desc.keep: >-
-  Имеет степень Доктора Философии и является научным сотрудником в области
-  Криптографии в Университете Ватерлоо, Канада. Начальник отдела Криптографии в
-  Uber, Инженер по Безопасности в Google. Имеет более 8 лет опыта в криптографии
+  Доктор наук и научный сотрудник в области криптографии в UWaterloo, Канада. Начальник отдела 
+  R&D в Uber, инженер по безопасности в Google. Имеет более 8 лет опыта в криптографии
   и блокчейне.
 home.raullen.name.keep: Raullen Chai
 home.raullen.title.keep: Соучредитель
@@ -222,113 +213,102 @@ home.site.description: >-
 home.slogan: Соединяя Физический Мир Блок за Блоком
 home.title: IoTeX
 home.vedaad.desc.keep: >-
-  Student at UC Berkeley studying EECS and Applied Math; blockchain  researcher
-  on the cryptoeconomics team at Blockchain @ Berkeley
+  Студент в UC Berkeley изучает EECS и прикладную математику; блокчейн-исследователь в 
+  крипто-економической команде от Blockchain @ Berkeley
 home.vedaad.name.keep: Vedaad Shakib
-home.vedaad.title.keep: Blockchain Engineering Intern
+home.vedaad.title.keep: Блокчейн Инженер (Интерн)
 home.vincent.desc.keep: >-
-  Computer Science major at the University of Waterloo. Security and blockchain
-  enthusiast.
+  Изучает информатику в UWaterloo. Энтузиаст безопасности и блокчейна.
 home.vincent.name.keep: Vincent Vuong
-home.vincent.title.keep: Software Engineer Intern
+home.vincent.title.keep: Инженер-программист (Интерн)
 home.xinxin.desc.keep: >-
-  Имеет степень Доктора Философии в области Криптографии от Университета
-  Ватерлоо, Канада. Старший Инженер-Исследователь в Bosch Research. Имеет 14 лет
-  опыта работы и исследований в области информационной безопасности и
-  криптографии и более 40 публикаций/патентов.
+  Имеет степень Доктора Философии в области Криптографии от UWaterloo, Канада. Старший 
+  инженер-исследователь в Bosch Research. Имеет 14 лет опыта работы и исследований в области 
+  информационной безопасности и криптографии и более 40 публикаций/патентов.
 home.xinxin.name.keep: Xinxin Fan
 home.xinxin.title.keep: Начальник отдела криптографии
 home.zhefeng.desc.keep: >-
-  Окончил магистратуру Компьютерных Наук в Калифорнийском Университете Сан-Диего
-  и имеет степень бакалавра в Математике и Информатике от Университета
-  Висконсин-Мэдисон. Энтизиаст технологии блокчейн, машинного обучения и IoT.
+  Окончил магистратуру компьютерных наук в University of California San Diego
+  и имеет степень бакалавра в математике и информатике от University of Wisconsin-Madison. 
+  Энтузиаст технологии блокчейн, машинного обучения и интернета вещей.
 home.zhefeng.name.keep: Zhefeng Li
 home.zhefeng.title.keep: Блокчейн Инженер
 home.zhen.desc.keep: >-
-  Bachelor in Computer Science at University of Waterloo. Blockchain,
-  cryptocurrency and machine learning enthusiast.
+  Изучает компьютерные науки в UWaterloo. Энтузиаст блокчейна, криптовалюты и машинного обучения.
 home.zhen.name.keep: Zhen Li
-home.zhen.title.keep: Software Engineer Intern
+home.zhen.title.keep: Инженер-программист (Интерн)
 home.zhijie.desc.keep: >-
-  Ph.D in Computer Science at National University of Singapore. 10+ years
-  experience in distributed systems, P2P networks and big data. Committer and
-  PMC of Hadoop and Samza. Member of Apache Software Foundation. 10+
-  publications and patents.
+  Кандидат компьютерных наук в National University of Singapore. Имеет более 10 лет опыта 
+  работы в распределенных системах, сетях P2P и больших данных. Коммиттер и PMC Hadoop и Samza. 
+  Член Apache Software Foundation. Имеет 10+ публикаций и патентов.
 home.zhijie.name.keep: Zhijie Shen
-home.zhijie.title.keep: Staff Blockchain Engineer
-profile.eth.eth_new: 4. Enter your new ETH address
-profile.eth.expiration: Expire at
-profile.eth.invalid: Please enter a valid ETH address.
-profile.eth.message: '1. Copy the message:'
-profile.eth.sign_new: '2. Sign the message with your private key:'
-profile.eth.sign_old: '2. Sign the message with your OLD private key:'
-profile.eth.signature: 3. Fill in the signature
-profile.eth.update: Update your ETH address
-profile.eth.updated: Your ETH address has been updated.
-profile.eth.verified: Your ETH address has been verified.
-profile.eth.verify: Verify your ETH address
-profile.history.category: Category
-profile.history.menu: HISTORY
-profile.history.point: Point
-profile.history.time: Time
-profile.info.eth_address: ETH Address
-profile.info.phone_number: Phone
+home.zhijie.title.keep: Блокчейн инженер
+profile.eth.expiration: Истекает в
+profile.eth.invalid: Пожалуйста, введите правильный ETH адрес.
+profile.eth.new: Пожалуйста, введите ваш новый ETH адрес
+profile.eth.new_eth: Новый ETH адрес
+profile.eth.signature_new: Подпись (используя приватный ключ)
+profile.eth.signature_old: Подпись (используя ваш СТАРЫЙ приватный ключ)
+profile.eth.updated: Ваш ETH адрес был обновлен.
+profile.eth.verification_msg: Сообщение
+profile.eth.verified: Ваш ETH адрес был подтвержден.
+profile.eth.verify: Подтвердите ваш ETH адрес
+profile.history.category: Категория
+profile.history.menu: ИСТОРИЯ
+profile.history.point: Очки
+profile.history.time: Время
+profile.info.eth_address: ETH Адрес
+profile.info.phone_number: Телефон
 profile.info.telegram_account_id: Telegram
-profile.message.back: BACK
-profile.message.change: CHANGE
-profile.message.close: Close
-profile.message.copied: COPIED
-profile.message.copy: COPY
-profile.message.generate: Generate
-profile.message.less_than_100_points: You need at least 100 points to submit a request.
-profile.message.loading: Loading
-profile.message.memo: Memo
-profile.message.no_eth: You need an ETH address to redeem.
-profile.message.not_a_number: Please enter a valid number.
-profile.message.not_enough_points: You don't have enough points.
+profile.message.back: НАЗАД
+profile.message.copied: Скопировать код.
+profile.message.copy: Скопировать
+profile.message.generate: Генерировать
+profile.message.less_than_100_points: Минимальное требование для заявки - 100 очков.
+profile.message.loading: Загрузка
+profile.message.memo: Заметки
+profile.message.no_eth: Вам нужен ETH адрес а для обмена.
+profile.message.not_a_number: Пожалуйста, введите правильный номер.
+profile.message.not_enough_points: У вас недостаточно очков.
 profile.message.ok: OK
-profile.message.processing: Processing
-profile.message.refund: REFUND
-profile.message.result: Result
-profile.message.set: SET
-profile.message.sign: SIGN
-profile.message.submit: SUBMIT
-profile.message.verify: VERIFY
-profile.message.view: VIEW
-profile.points.title: Your IoTeX Points
-profile.receive.amount: Amount
-profile.receive.button: RECEIVE
-profile.receive.menu: RECEIVE
-profile.receive.prompt: ENTER THE CODE
-profile.receive.success: Congratulations! You just received %d points.
-profile.receive.time: Time
-profile.redeem.amount: Amount
-profile.redeem.button: SUBMIT APPLICATION
-profile.redeem.menu: REDEEM
-profile.redeem.prompt: ENTER THE AMOUNT YOU WANT TO REDEEM TO IOTX
-profile.redeem.status: Status
+profile.message.processing: Загрузка
+profile.message.refund: Возврат
+profile.message.submit: ОТПРАВИТЬ
+profile.message.verify: ПОДТВЕРДИТЬ
+profile.message.view: Просмотр
+profile.points.title: Ваши IoTeX Очки
+profile.receive.amount: Сумма
+profile.receive.button: ПОЛУЧИТЬ
+profile.receive.menu: ПОЛУЧИТЬ
+profile.receive.prompt: ВВЕДИТЕ КОД
+profile.receive.success: Поздравляем! Вы только что получили %d очков.
+profile.receive.time: Время
+profile.redeem.amount: Сумма
+profile.redeem.button: ОТПРАВИТЬ ЗАЯВКУ
+profile.redeem.menu: ОБМЕНЯТЬ
+profile.redeem.prompt: ВВЕДИТЕ СУММУ ОЧКОВ ДЛЯ ОБМЕНА НА IOTX
+profile.redeem.status: Статус
 profile.redeem.success: >-
-  Your application has been accepted and in the queue! To avoid congestion on
-  Ethereum  network, we will process the applications gradually and finalize all
-  point-to-token  redemptions within two weeks.
-profile.redeem.time: Time
-profile.refund.success: '%d points have been refunded to your account.'
-profile.send.amount: Amount
-profile.send.button: GENERATE CODE
-profile.send.code: Code
-profile.send.end: End time
-profile.send.left: Left
+  Ваша заявка была принята и сейчас находится в очереди для обработки! Чтобы избежать 
+  перегрузки в сети Ethereum, мы будем постепенно их обрабатывать и завершим обмен 
+  в течении двух недель.
+profile.redeem.time: Время
+profile.refund.success: '%d очков вернулись на ваш аккаунт.'
+profile.send.amount: Сумма
+profile.send.button: СГЕНЕРИРОВАТЬ КОД
+profile.send.code: Код
+profile.send.end: Время завершения
+profile.send.left: Осталось
 profile.send.memo: Memo (optional)
-profile.send.menu: SEND
-profile.send.prompt: ENTER THE AMOUNT YOU WANT TO SEND
-profile.send.start: Start time
-profile.send.success: IoTeX code has been successfully generated!
-profile.send.total: Total
-profile.wallet.exchange: Exchanges
-profile.wallet.rank: Rank
-profile.wallet.title: Your IoTeX Tokens
+profile.send.menu: ОТПРАВИТЬ
+profile.send.prompt: ВВЕДИТЕ СУММУ ОЧКОВ ДЛЯ ОТПРАВКИ
+profile.send.start: Время начала
+profile.send.success: IoTeX код был успешно сгенерирован!
+profile.send.total: Всего
+profile.wallet.rank: Рейтинг
+profile.wallet.title: Ваши IoTeX токены
 stonevan.twitter: >-
-  Я только что получил 100 очков от IoTeX как подарок в честь выпуска их первого
+  Я только что получил 100 очков от IoTeX в подарок, в честь выпуска первого
   кода - привью Тест-нета. @iotex_io Присоединяйтесь и получайте очки!
 subscribe.btn: ПОДПИСАТЬСЯ
 subscribe.desc: Оставайтесь в курсе нашего прогресса и новостей
@@ -339,19 +319,19 @@ testnet-alpha.released-title: Testnet Alpha Has Been Released On
 testnet-preview.home-title: Привью Тест-нета (StoneVan) состоялся
 testnet-preview.released-event-title: Наш Тест-нет Привью уже вышел!
 testnet-preview.released-title: Привью Тест-нета состоялся
-topbar.about: ABOUT
-topbar.account: ACCOUNT
-topbar.announcements: ANNOUNCEMENTS
+topbar.about: ОБ
+topbar.account: АККАУНТ
+topbar.announcements: АНОНСЫ
 topbar.blog: БЛОГ
 topbar.careers: ВАКАНСИИ
-topbar.charity: CHARITY
-topbar.explorer: EXPLORER
+topbar.charity: БЛАГОТВОРИТЕЛЬНОСТЬ
+topbar.explorer: ИЗУЧАТЬ
 topbar.faq: FAQ
-topbar.logout: LOGOUT
-topbar.press: PRESS RELEASE
-topbar.research: RESEARCH
-topbar.resource: RESOURCE
-topbar.video: VIDEO
+topbar.logout: ВЫЙТИ
+topbar.press: ПРЕСС-РЕЛИЗ
+topbar.research: ИССЛЕДОВАНИЯ
+topbar.resource: РЕСУРСЫ
+topbar.video: ВИДЕО
 topbar.white-paper: WHITE PAPER
 whitepaper.button.next: ВПЕРЕД
 whitepaper.button.previous: НАЗАД
