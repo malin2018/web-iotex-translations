@@ -218,14 +218,15 @@ home.zhijie.desc.keep: >-
   publications and patents.
 home.zhijie.name.keep: Zhijie Shen
 home.zhijie.title.keep: Staff Blockchain Engineer
+profile.eth.eth_new: 4. Enter your new ETH address
 profile.eth.expiration: Expire at
 profile.eth.invalid: Please enter a valid ETH address.
-profile.eth.new: Please enter your new ETH address
-profile.eth.new_eth: New ETH address
-profile.eth.signature_new: Signature (by your private key)
-profile.eth.signature_old: Signature (by your OLD private key)
+profile.eth.message: '1. Copy the message:'
+profile.eth.sign_new: '2. Sign the message with your private key:'
+profile.eth.sign_old: '2. Sign the message with your OLD private key:'
+profile.eth.signature: 3. Fill in the signature
+profile.eth.update: Update your ETH address
 profile.eth.updated: Your ETH address has been updated.
-profile.eth.verification_msg: Message
 profile.eth.verified: Your ETH address has been verified.
 profile.eth.verify: Verify your ETH address
 profile.history.category: 카테고리
@@ -236,7 +237,9 @@ profile.info.eth_address: ETH 주소
 profile.info.phone_number: 전화번호
 profile.info.telegram_account_id: 텔레그램
 profile.message.back: 이전
-profile.message.copied: 코드가 클립보드에 복사 되었습니다.
+profile.message.change: CHANGE
+profile.message.close: Close
+profile.message.copied: COPIED
 profile.message.copy: 복사하기
 profile.message.generate: Generate
 profile.message.less_than_100_points: 진행을 위해서 최소 100 포인트가 필요합니다.
@@ -247,10 +250,13 @@ profile.message.not_a_number: 유효한 숫자를 입력하세요.
 profile.message.not_enough_points: 포인트가 부족합니다.
 profile.message.ok: OK
 profile.message.processing: 처리중
-profile.message.refund: Refund
+profile.message.refund: REFUND
+profile.message.result: Result
+profile.message.set: SET
+profile.message.sign: SIGN
 profile.message.submit: SUBMIT
 profile.message.verify: VERIFY
-profile.message.view: View
+profile.message.view: VIEW
 profile.points.title: Your IoTeX Points
 profile.receive.amount: 금액
 profile.receive.button: 받기
@@ -279,6 +285,7 @@ profile.send.prompt: 보내고자 하는 금액을 입력하세요.
 profile.send.start: 시작 시간
 profile.send.success: IoTeX 코드가 생성되었습니다!
 profile.send.total: 합
+profile.wallet.exchange: Exchanges
 profile.wallet.rank: Rank
 profile.wallet.title: Your IoTeX Tokens
 stonevan.twitter: >-
@@ -287,6 +294,9 @@ stonevan.twitter: >-
 subscribe.btn: 구독
 subscribe.desc: 최근 진행사항과 이벤트 안내
 subscribe.title: 새 소식을 놓치지 마세요.
+testnet-alpha.home-title: Testnet Alpha (Strive) will be Open Sourced on
+testnet-alpha.released-event-title: Our Testnet Alpha Has Been Released!
+testnet-alpha.released-title: Testnet Alpha Has Been Released On
 testnet-preview.home-title: 테스트넷 미리보기(StoneVan)가 공개될 예정입니다.
 testnet-preview.released-event-title: 테스트넷 미리보기가 공개 되었습니다!
 testnet-preview.released-title: 테스트넷 미리보기가 공개 되었습니다.
