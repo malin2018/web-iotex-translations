@@ -331,6 +331,9 @@ testnet-alpha.released-title: Testnet Alpha Has Been Released On
 testnet-preview.home-title: Testnet Preview (StoneVan) will be released on
 testnet-preview.released-event-title: Our Testnet Preview Has Been Released!
 testnet-preview.released-title: Testnet Preview Has Been Released On
+testnet.code: CODE
+testnet.detail: DETAIL
+testnet.demo: DEMO
 topbar.about: ABOUT
 topbar.account: ACCOUNT
 topbar.announcements: ANNOUNCEMENTS
