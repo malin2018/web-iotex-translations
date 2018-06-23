@@ -10,7 +10,7 @@ auth.login_with_mobile: Войти с помощью номера телефон
 auth.login_with_telegram: Войти через Telegram
 auth.next: Далее
 auth.phone_number: Номер телефона
-auth.tab.mobile: Номеp(CN)
+auth.tab.mobile: Номеp(Китай)
 auth.tab.telegram: Telegram
 auth.verification_code: Код подтверждения
 captcha.incorrect_captcha: Неверная captcha
@@ -105,7 +105,7 @@ home.about.inno.1.desc.keep: >-
 home.about.inno.1.title.keep: Блокчейн в Блокчейне
 home.about.inno.2.desc.keep: >-
   Максимизация конфиденциальности путём инновационных криптографических схем,
-  таких как легковесные скрытые адреса и постоянной кольцевой подписи.
+  таких как легковесные скрытые адреса и постоянная кольцевая подпись.
 home.about.inno.2.title.keep: Встроенные методы сохранения конфиденциальности
 home.about.inno.3.desc.keep: >-
   "Децентрализованная Автономная Организация для IoT, код - закон для мира
@@ -128,7 +128,7 @@ home.alina.desc.keep: >-
   Работала в маркетинге, продажах и управлении проектами в корпоративных и
   правительственных секторах. Имеет степень бакалавра в коммерции и
   международном бизнесе и сертификат по управлению проектами. Энтусиаст
-  криптовалюты и старт-апов.
+  криптовалют и старт-апов.
 home.alina.name.keep: Alina Burya
 home.alina.title.keep: Менеджер Сообщества
 home.decentralized-protocol: Децентрализованная Сеть для Интернета Вещей
@@ -182,9 +182,8 @@ home.monika.desc.keep: >-
 home.monika.name.keep: Monika Hathaway
 home.monika.title.keep: PR
 home.nick.desc.keep: >-
-  Получает степень магистра в Master in Computer Science at USC and Bachelor at
-  University of Wisconsin- Madison. Web development, blockchain and machine
-  learning enthusiast.
+  Магистратура в информатике от USC и имеет степь бакалавра в University of Wisconsin-Madison. Энтузиаст разработок, 
+  блокчейна и машинного обучения.
 home.nick.name.keep: Nick Chen
 home.nick.title.keep: Full Stack-разработчик (Интерн)
 home.paddy.desc.keep: >-
@@ -256,14 +255,14 @@ home.zhijie.desc.keep: >-
   публикаций и патентов.
 home.zhijie.name.keep: Zhijie Shen
 home.zhijie.title.keep: Блокчейн инженер
-profile.eth.eth_new: 4. Enter your new ETH address
+profile.eth.eth_new: 4. Введите ваш новый ETH адрес
 profile.eth.expiration: Истекает в
 profile.eth.invalid: 'Пожалуйста, введите правильный ETH адрес.'
-profile.eth.message: '1. Copy the message:'
-profile.eth.sign_new: '2. Sign the message with your private key:'
-profile.eth.sign_old: '2. Sign the message with your OLD private key:'
-profile.eth.signature: 3. Fill in the signature
-profile.eth.update: Update your ETH address
+profile.eth.message: '1. Скопируйте сообщение:'
+profile.eth.sign_new: '2. Подпишите сообщение с помощью вашего приватного ключа:'
+profile.eth.sign_old: '2. Подпишите сообщение с помощью вашего СТАРОГО приватного ключа:'
+profile.eth.signature: 3. Введите подпись
+profile.eth.update: Обновите ваш ETH адрес
 profile.eth.updated: Ваш ETH адрес был обновлен.
 profile.eth.verified: Ваш ETH адрес был подтвержден.
 profile.eth.verify: Подтвердите ваш ETH адрес
@@ -275,8 +274,8 @@ profile.info.eth_address: ETH Адрес
 profile.info.phone_number: Телефон
 profile.info.telegram_account_id: Telegram
 profile.message.back: НАЗАД
-profile.message.change: CHANGE
-profile.message.close: Close
+profile.message.change: ИЗМЕНИТЬ
+profile.message.close: Закрыть
 profile.message.copied: Скопировать код.
 profile.message.copy: Скопировать
 profile.message.generate: Генерировать
@@ -289,9 +288,9 @@ profile.message.not_enough_points: У вас недостаточно очков
 profile.message.ok: OK
 profile.message.processing: Загрузка
 profile.message.refund: Возврат
-profile.message.result: Result
-profile.message.set: SET
-profile.message.sign: SIGN
+profile.message.result: Результат
+profile.message.set: Назначить
+profile.message.sign: ПОДПИСАТЬ
 profile.message.submit: ОТПРАВИТЬ
 profile.message.verify: ПОДТВЕРДИТЬ
 profile.message.view: Просмотр
@@ -312,19 +311,19 @@ profile.redeem.success: >-
   избежать перегрузки в сети Ethereum, мы будем постепенно их обрабатывать и
   завершим обмен в течении двух недель.
 profile.redeem.time: Время
-profile.refund.success: '%d очков вернулись на ваш аккаунт.'
+profile.refund.success: '%d очков вернулось на ваш аккаунт.'
 profile.send.amount: Сумма
 profile.send.button: СГЕНЕРИРОВАТЬ КОД
 profile.send.code: Код
 profile.send.end: Время завершения
 profile.send.left: Осталось
-profile.send.memo: Memo (optional)
+profile.send.memo: Заметки (не обязательно)
 profile.send.menu: ОТПРАВИТЬ
 profile.send.prompt: ВВЕДИТЕ СУММУ ОЧКОВ ДЛЯ ОТПРАВКИ
 profile.send.start: Время начала
 profile.send.success: IoTeX код был успешно сгенерирован!
 profile.send.total: Всего
-profile.wallet.exchange: Exchanges
+profile.wallet.exchange: Обмен
 profile.wallet.rank: Рейтинг
 profile.wallet.title: Ваши IoTeX токены
 stonevan.twitter: >-
@@ -333,19 +332,19 @@ stonevan.twitter: >-
 subscribe.btn: ПОДПИСАТЬСЯ
 subscribe.desc: Оставайтесь в курсе нашего прогресса и новостей
 subscribe.title: Подпишитесь на нашу рассылку
-testnet-alpha.home-title: Testnet Alpha (Strive) will be Open Sourced on
-testnet-alpha.released-event-title: Our Testnet Alpha Has Been Released!
-testnet-alpha.released-title: Testnet Alpha Has Been Released On
+testnet-alpha.home-title: Тестнет Альфа (Strive) будет в открытом доступе
+testnet-alpha.released-event-title: Наш Тестнет Альфа уже вышел!
+testnet-alpha.released-title: Тестнет Альфа вышел
 testnet-preview.home-title: Привью Тест-нета (StoneVan) состоялся
-testnet-preview.released-event-title: Наш Тест-нет Привью уже вышел!
-testnet-preview.released-title: Привью Тест-нета состоялся
+testnet-preview.released-event-title: Наш Тестнет Привью уже вышел!
+testnet-preview.released-title: Привью Тестнета состоялся
 topbar.about: ОБ
 topbar.account: АККАУНТ
 topbar.announcements: АНОНСЫ
 topbar.blog: БЛОГ
 topbar.careers: ВАКАНСИИ
 topbar.charity: БЛАГОТВОРИТЕЛЬНОСТЬ
-topbar.explorer: ИЗУЧАТЬ
+topbar.explorer: ИЗУЧИТЬ
 topbar.faq: FAQ
 topbar.logout: ВЫЙТИ
 topbar.press: ПРЕСС-РЕЛИЗ
