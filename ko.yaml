@@ -96,6 +96,7 @@ home.alina.desc.keep: >-
   Marketing, sales and project management experience in corporate and government
   sectors. BComm in International Business and Certificate in Project
   Management. Cryptocurrency and start-up enthusiast.
+home.alina.linkedin.keep: 'https://www.linkedin.com/in/alinaburya/'
 home.alina.name.keep: Alina Burya
 home.alina.title.keep: Community Manager
 home.decentralized-protocol: IoT용 분산형 네트워크
@@ -104,29 +105,34 @@ home.dustin.desc.keep: >-
   expertise in distributed systems, content protection, hardware video
   acceleration, network video streaming, graphics driver. Cryptography and
   blockchain enthusiast.
+home.dustin.linkedin.keep: 'https://www.linkedin.com/in/dustinxie/'
 home.dustin.name.keep: Dustin Xie
 home.dustin.title.keep: Blockchain Engineer
 home.fan.desc.keep: >-
   Previously served as a Founding Partner of Sequoia Capital China, and a
   Director of DFJ ePlanet Ventures. Ranked by Forbes as one of leading venture
   capitalists in its annual China's Midas List.
+home.fan.linkedin.keep: null
 home.fan.name.keep: Fan Zhang
 home.fan.title.keep: null
 home.guang.desc.keep: >-
   IEEE Fellow. Professor in University of Waterloo, Canada. Top Scientist in
   cryptography and lightweight cryptography, ad hoc network and Radio Frequency
   Identification (RFID) security.
+home.guang.linkedin.keep: null
 home.guang.name.keep: Guang Gong
 home.guang.title.keep: null
 home.hao.desc.keep: >-
   Master in Software Engineering at Carnegie Mellon University. Web and
   blockchain enthusiast.
+home.hao.linkedin.keep: null
 home.hao.name.keep: Hao Cui
 home.hao.title.keep: Software Engineer Intern
 home.jack.desc.keep: >-
   Co-Founding Managing Partner of HCM Capital, Foxconn Technology Group.
   Co-Founder and Executive Director of Chained Finance Ltd., Founder & Executive
   Director of FnConn, and Board Director of Abra.
+home.jack.linkedin.keep: null
 home.jack.name.keep: Jack Lee
 home.jack.title.keep: null
 home.jing.desc.keep: >-
@@ -134,28 +140,33 @@ home.jing.desc.keep: >-
   investments and innovations in blockchain, security and IoT. Board director on
   numerous companies. Extensive experience in startup, investments and building
   up ecosystem.
+home.jing.linkedin.keep: 'https://www.linkedin.com/in/cbetasun/'
 home.jing.name.keep: Jing Sun
 home.jing.title.keep: Co-founder
 home.larry.desc.keep: >-
   Management consultant at Oliver Wyman, specialized in digital operations. Dual
   B.S. in Finance & Economics, minor in Visual Arts & Design from MIT.
   Blockchain and IoT enthusiast.
+home.larry.linkedin.keep: 'https://www.linkedin.com/in/larry-pang-9448863b/'
 home.larry.name.keep: Larry Pang
 home.larry.title.keep: Growth & Community
 home.monika.desc.keep: >-
   Technology communications specialist with deep expertise in cybersecurity,
   privacy, networking and emerging technologies.
+home.monika.linkedin.keep: 'https://www.linkedin.com/in/monikahathaway/'
 home.monika.name.keep: Monika Hathaway
 home.monika.title.keep: Communication
 home.nick.desc.keep: >-
   Master in Computer Science at USC and Bachelor at University of Wisconsin-
   Madison. Web development, blockchain and machine learning enthusiast.
+home.nick.linkedin.keep: null
 home.nick.name.keep: Nick Chen
 home.nick.title.keep: Full Stack Intern
 home.paddy.desc.keep: >-
   Senior Software Engineer at Microsoft, specialized in distributed systems.
   Active contributor to open source projects. M.S. Computer Science at Yale
   University.
+home.paddy.linkedin.keep: null
 home.paddy.name.keep: Paddy Kan
 home.paddy.title.keep: Distributed Systems
 home.powered-by: 프라이버시 중심의 블록체인에 의해 작동
@@ -163,12 +174,14 @@ home.qevan.desc.keep: >-
   Ph.D in Machine Learning and Computer Vision at National University of
   Singapore. Engineering Manager and Research Scientist at Facebook. Growth
   Hacker. Startup investor and advisor. 20+ publications / patents.
+home.qevan.linkedin.keep: 'https://www.linkedin.com/in/donguo/'
 home.qevan.name.keep: Qevan Guo
 home.qevan.title.keep: Co-founder
 home.raullen.desc.keep: >-
   Ph.D and Research Scientist in Cryptography at UWaterloo. Head of Crypto R&D
   at Uber, Security Engineer at Google. 8+ years of experience in cryptography
   and blockchain.
+home.raullen.linkedin.keep: 'https://www.linkedin.com/in/raullenchai/'
 home.raullen.name.keep: Raullen Chai
 home.raullen.title.keep: Co-founder
 home.section.advisors: IoTeX.Advisors
@@ -189,26 +202,31 @@ home.title: IoTeX
 home.vedaad.desc.keep: >-
   Student at UC Berkeley studying EECS and Applied Math; blockchain  researcher
   on the cryptoeconomics team at Blockchain @ Berkeley
+home.vedaad.linkedin.keep: null
 home.vedaad.name.keep: Vedaad Shakib
 home.vedaad.title.keep: Blockchain Engineering Intern
 home.vincent.desc.keep: Vincent Vuong
+home.vincent.linkedin.keep: null
 home.vincent.name.keep: Vincent Vuong
 home.vincent.title.keep: Software Engineer Intern
 home.xinxin.desc.keep: >-
   Ph.D in Cryptography at UWaterloo. Sr. Research Engineer at Bosch Research. 14
   years of research and industry experience in information security and crypto.
   40+ publications / patents.
+home.xinxin.linkedin.keep: 'https://www.linkedin.com/in/xinxin-fan-crypto/'
 home.xinxin.name.keep: Xinxin Fan
 home.xinxin.title.keep: Head of Cryptography
 home.zhefeng.desc.keep: >-
   Master in Computer Science at University of California San Diego and Bachelor
   in Mathematics and Computer Science at University of Wisconsin-Madison.
   Blockchain technology, machine learning, and Internet of Things enthusiast.
+home.zhefeng.linkedin.keep: null
 home.zhefeng.name.keep: Zhefeng Li
 home.zhefeng.title.keep: Blockchain Engineer
 home.zhen.desc.keep: >-
   Bachelor in Computer Science at University of Waterloo. Blockchain,
   cryptocurrency and machine learning enthusiast.
+home.zhen.linkedin.keep: null
 home.zhen.name.keep: Zhen Li
 home.zhen.title.keep: Software Engineer Intern
 home.zhijie.desc.keep: >-
@@ -216,6 +234,7 @@ home.zhijie.desc.keep: >-
   experience in distributed systems, P2P networks and big data. Committer and
   PMC of Hadoop and Samza. Member of Apache Software Foundation. 10+
   publications and patents.
+home.zhijie.linkedin.keep: 'https://www.linkedin.com/in/zjshen/'
 home.zhijie.name.keep: Zhijie Shen
 home.zhijie.title.keep: Staff Blockchain Engineer
 profile.eth.eth_new: 4. Enter your new ETH address

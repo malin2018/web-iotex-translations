@@ -130,6 +130,7 @@ home.alina.desc.keep: >-
   Esperienza in marketing, vendita e project management società e emministrazioni
   pubbliche. Laurea in Commercio Internazionale e Diploma in Project Management.
   Appassionata di Criptovalute e start-up.
+home.alina.linkedin.keep: 'https://www.linkedin.com/in/alinaburya/'
 home.alina.name.keep: Alina Burya
 home.alina.title.keep: Community Manager
 home.decentralized-protocol: Una Rete Decentralizata per l'Internet of Things
@@ -138,29 +139,34 @@ home.dustin.desc.keep: >-
   di Intel. 12 anni di esperienza nei sistemi distribuiti, protezione dei
   contenuti, accelerazione hardware video, streaming video di rete, driver
   grafici. Appassionato di blockchain e crittografia.
+home.dustin.linkedin.keep: 'https://www.linkedin.com/in/dustinxie/'
 home.dustin.name.keep: Dustin Xie
 home.dustin.title.keep: Blockchain Engineer
 home.fan.desc.keep: >-
   In precedenza è stato socio fondatore di Sequoia Capital China e Direttore di
   DFJ ePlanet Ventures. Classificato da Forbes come uno dei principali venture
   capitalist nell'annuale lista "China's Midas List".
+home.fan.linkedin.keep: null
 home.fan.name.keep: Fan Zhang
 home.fan.title.keep: null
 home.guang.desc.keep: >-
   Fellow IEEE. Professore all'Università di Waterloo, Canada. Scienziato brillante
   in crittografia e crittografia leggera, reti ad hoc e sicurezza
   nell'Identificazione a Radiofrequenza (RFID).
+home.guang.linkedin.keep: null
 home.guang.name.keep: Guang Gong
 home.guang.title.keep: null
 home.hao.desc.keep: >-
   Master in Ingegneria del Software alla Carnegie Mellon University. Appassionato
   di Web e Blockchain.
+home.hao.linkedin.keep: null
 home.hao.name.keep: Hao Cui
 home.hao.title.keep: Ingegnere del Software stagista
 home.jack.desc.keep: >-
   Co-Fondatore Managing Partner di HCM Capital, Foxconn Technology Group.
   Co-Fondatore e direttore esecutivo di Chained Finance Ltd., Fondatore e
   Direttore esecutivo di FnConn e Dirigente di Abra.
+home.jack.linkedin.keep: null
 home.jack.name.keep: Jack Lee
 home.jack.title.keep: null
 home.jing.desc.keep: >-
@@ -168,28 +174,33 @@ home.jing.desc.keep: >-
   guida oltre 40 investimenti e innovazioni tra blockchain, sicurezza e IoT.
   Consigliere di amministrazione in numerose aziende. Vasta esperienza in startup,
   investimenti e realizzazione di ecosistemi.
+home.jing.linkedin.keep: 'https://www.linkedin.com/in/cbetasun/'
 home.jing.name.keep: Jing Sun
 home.jing.title.keep: Co-Fondatore
 home.larry.desc.keep: >-
   Consulente di Management presso Oliver Wyman, specializzato in Operazioni
   Digitali. Doppia laurea in Finanza ed Economia, Visual Arts & Design come
   materia complementare al MIT. Appassionato di Blockchain e di IoT.
+home.larry.linkedin.keep: 'https://www.linkedin.com/in/larry-pang-9448863b/'
 home.larry.name.keep: Larry Pang
 home.larry.title.keep: Crescita e Community
 home.monika.desc.keep: >-
   Specialista in tecnologie di comunicazione con profonda esperienza in materia di
   sicurezza informatica, privacy, reti e tecnologie emergenti.
+home.monika.linkedin.keep: 'https://www.linkedin.com/in/monikahathaway/'
 home.monika.name.keep: Monika Hathaway
 home.monika.title.keep: Comunicazione
 home.nick.desc.keep: >-
   Master in Computer Science alla USC, laurea breve presso l'Università del
   Wisconsin- Madison. Sviluppo Web, appassionata di Blockchain e Machine Learning.
+home.nick.linkedin.keep: null
 home.nick.name.keep: Nick Chen
 home.nick.title.keep: Sviluppatore Full Stack Stagista
 home.paddy.desc.keep: >-
   Software Engineer Senior presso Microsoft, specializzato in sistemi distribuiti.
   Contribuisce attivamente a progetti open source. Laurea in Computer Science
   presso L'Università di Yale
+home.paddy.linkedin.keep: null
 home.paddy.name.keep: Paddy Kan
 home.paddy.title.keep: Sistemi Distribuiti
 home.powered-by: Basata su una Blockchain orientata alla Privacy
@@ -198,12 +209,14 @@ home.qevan.desc.keep: >-
   University di Singapore. Responsabile tecnico e Ricercatore Scientifico su
   Facebook. Appassionato di informatica. Investitore e consulente di startup.
   Oltre 20 pubblicazioni/brevetti.
+home.qevan.linkedin.keep: 'https://www.linkedin.com/in/donguo/'
 home.qevan.name.keep: Qevan Guo
 home.qevan.title.keep: Co-Fondatore
 home.raullen.desc.keep: >-
   Dottorato di Ricerca, Ricercatore Scientifico in Crittografia presso UWaterloo.
   Responsabile della ricerca e sviluppo sulle Cryptomonete presso Uber, Security
   Engineer presso Google. Oltre 8 anni di esperienza in crittografia e blockchain.
+home.raullen.linkedin.keep: 'https://www.linkedin.com/in/raullenchai/'
 home.raullen.name.keep: Raullen Chai
 home.raullen.title.keep: Co-Fondatore
 home.section.advisors: IoTeX.Consulenti
@@ -224,11 +237,13 @@ home.title: IoTeX
 home.vedaad.desc.keep: >-
   Studente di EECS e Matematica Applicata presso UC Berkeley; Ricercatore
   Blockchain nel team di crypto-economia presso "Blockchain @ Berkeley"
+home.vedaad.linkedin.keep: null
 home.vedaad.name.keep: Vedaad Shakib
 home.vedaad.title.keep: Ingegnere della Blockchain Stagista
 home.vincent.desc.keep: >-
   Studente di Informatica presso l'Università di Waterloo. Appassionato di
   blockchain e sicurezza informatica.
+home.vincent.linkedin.keep: null
 home.vincent.name.keep: Vincent Vuong
 home.vincent.title.keep: Stagista di Ingegneria del Software
 home.xinxin.desc.keep: >-
@@ -236,6 +251,7 @@ home.xinxin.desc.keep: >-
   presso Bosch Research. 14 anni di ricerca ed esperienza nel settore della
   sicurezza delle informazioni e della crittografia. Oltre 40
   pubblicazioni/brevetti.
+home.xinxin.linkedin.keep: 'https://www.linkedin.com/in/xinxin-fan-crypto/'
 home.xinxin.name.keep: Xinxin Fan
 home.xinxin.title.keep: Capo della Crittografia
 home.zhefeng.desc.keep: >-
@@ -243,11 +259,13 @@ home.zhefeng.desc.keep: >-
   Laurea Breve in Matematica e Informatica presso l'Università del
   Wisconsin-Madison. Appassionato di tecnologia blockchain, apprendimento
   automatico e Internet of Things.
+home.zhefeng.linkedin.keep: null
 home.zhefeng.name.keep: Zhefeng Li
 home.zhefeng.title.keep: Ingegnere della Blockchain
 home.zhen.desc.keep: >-
   Laurea breve in Computer Science all'Università di Waterloo. Appassionato di
   blockchain, criptovalute e machine learning.
+home.zhen.linkedin.keep: null
 home.zhen.name.keep: Zhen Li
 home.zhen.title.keep: Stagista Ingegnere del Software
 home.zhijie.desc.keep: >-
@@ -255,6 +273,7 @@ home.zhijie.desc.keep: >-
   Oltre 10 anni di esperienza in sistemi distribuiti, reti P2P e big data.
   Committer e PMC di Hadoop e Samza. Membro di Apache Software Foundation. Oltre
   10 pubblicazioni e brevetti.
+home.zhijie.linkedin.keep: 'https://www.linkedin.com/in/zjshen/'
 home.zhijie.name.keep: Zhijie Shen
 home.zhijie.title.keep: Ingegnere della Blockchain esperto
 profile.eth.expiration: Scade il

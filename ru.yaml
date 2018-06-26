@@ -129,6 +129,7 @@ home.alina.desc.keep: >-
   правительственных секторах. Имеет степень бакалавра в коммерции и
   международном бизнесе и сертификат по управлению проектами. Энтусиаст
   криптовалюты и старт-апов.
+home.alina.linkedin.keep: 'https://www.linkedin.com/in/alinaburya/'
 home.alina.name.keep: Alina Burya
 home.alina.title.keep: Менеджер Сообщества
 home.decentralized-protocol: Децентрализованная Сеть для Интернета Вещей
@@ -137,29 +138,34 @@ home.dustin.desc.keep: >-
   Intel. Имеет 12 лет опыта работы в распределенных системах, защите контента,
   аппаратном видео ускорении, потоковом сетевом видео и графических драйверах.
   Энтузиаст криптографии и блокчейна.
+home.dustin.linkedin.keep: 'https://www.linkedin.com/in/dustinxie/'
 home.dustin.name.keep: Dustin Xie
 home.dustin.title.keep: Блокчейн Инженер
 home.fan.desc.keep: >-
   Ранее работал в качестве основополагающего партнера в Sequoia Capital China и
   директором DFJ ePlanet Ventures. Входит в рейтинг Forbes как один из ведущих
   венчурных капиталистов в ежегодном списке Midas в Китае.
+home.fan.linkedin.keep: null
 home.fan.name.keep: Fan Zhang
 home.fan.title.keep: null
 home.guang.desc.keep: >-
   Член IEEE и профессор в UWaterloo, Канада. Лучший ученый в области
   криптографии и легкой криптографии, специалист сети и безопасности
   радиочастотной идентификации (RFID)
+home.guang.linkedin.keep: null
 home.guang.name.keep: Guang Gong
 home.guang.title.keep: null
 home.hao.desc.keep: >-
   Получает степень магистра программного обеспечения в Carnegie Mellon
   University. Веб и блокчейн разработчик.
+home.hao.linkedin.keep: null
 home.hao.name.keep: Hao Cui
 home.hao.title.keep: Инженер-программист (Интерн)
 home.jack.desc.keep: >-
   Соучредитель и управляющий партнер в HCM Capital, Foxconn Technology Group.
   Соучредитель и исполнительный директор в Chained Finance Ltd., основатель и
   исполнительный директор FnConn, и совета директоров Abra.
+home.jack.linkedin.keep: null
 home.jack.name.keep: Jack Lee
 home.jack.title.keep: null
 home.jing.desc.keep: >-
@@ -167,6 +173,7 @@ home.jing.desc.keep: >-
   возглавляет более 40 инвестиций и инноваций в блокчейне, безопасности и IoT.
   Директор совета директоров в многочисленных компаниях. Имеет большой опыт
   запуска стартапов, привлечения инвестиций и построения экосистем.
+home.jing.linkedin.keep: 'https://www.linkedin.com/in/cbetasun/'
 home.jing.name.keep: Jing San
 home.jing.title.keep: Соучредитель
 home.larry.desc.keep: >-
@@ -174,23 +181,27 @@ home.larry.desc.keep: >-
   цифровых операциях. У него двойная степень бакалавра в области финансов и
   экономики, визуальных искусств и дизайна от MIT. Энтузиаст блокчейна и
   интернета вещей.
+home.larry.linkedin.keep: 'https://www.linkedin.com/in/larry-pang-9448863b/'
 home.larry.name.keep: Larry Pang
 home.larry.title.keep: Развитие и Сообщество
 home.monika.desc.keep: >-
   Специалист по технологическим коммуникациям, обладающая глубокими знаниями в
   области кибербезопасности, конфиденциальности, сетевых и новых технологий.
+home.monika.linkedin.keep: 'https://www.linkedin.com/in/monikahathaway/'
 home.monika.name.keep: Monika Hathaway
 home.monika.title.keep: PR
 home.nick.desc.keep: >-
   Получает степень магистра в Master in Computer Science at USC and Bachelor at
   University of Wisconsin- Madison. Web development, blockchain and machine
   learning enthusiast.
+home.nick.linkedin.keep: null
 home.nick.name.keep: Nick Chen
 home.nick.title.keep: Full Stack-разработчик (Интерн)
 home.paddy.desc.keep: >-
   Старший инженер-программист в Microsoft, специализирующийся на распределенных
   системах. Активный участник проектов с открытым исходным кодом. Окончил
   магистратуру в области информатики в Yale University.
+home.paddy.linkedin.keep: null
 home.paddy.name.keep: Paddy Kan
 home.paddy.title.keep: Распределенные системы
 home.powered-by: Выполняется на блокчейне ориентированным на конфиденциальность
@@ -199,12 +210,14 @@ home.qevan.desc.keep: >-
   University of Singapore. Инженер-программист и научный сотрудник Facebook.
   Маркетолог роста. Инвестор и советник в различных стартапах. Имеет 20+
   публикаций/патентов.
+home.qevan.linkedin.keep: 'https://www.linkedin.com/in/donguo/'
 home.qevan.name.keep: Qevan Guo
 home.qevan.title.keep: Соучредитель
 home.raullen.desc.keep: >-
   Доктор наук и научный сотрудник в области криптографии в UWaterloo, Канада.
   Начальник отдела R&D в Uber, инженер по безопасности в Google. Имеет более 8
   лет опыта в криптографии и блокчейне.
+home.raullen.linkedin.keep: 'https://www.linkedin.com/in/raullenchai/'
 home.raullen.name.keep: Raullen Chai
 home.raullen.title.keep: Соучредитель
 home.section.advisors: IoTeX.Адвайзеры
@@ -225,9 +238,11 @@ home.title: IoTeX
 home.vedaad.desc.keep: >-
   Студент в UC Berkeley изучает EECS и прикладную математику;
   блокчейн-исследователь в крипто-економической команде от Blockchain @ Berkeley
+home.vedaad.linkedin.keep: null
 home.vedaad.name.keep: Vedaad Shakib
 home.vedaad.title.keep: Блокчейн Инженер (Интерн)
 home.vincent.desc.keep: Изучает информатику в UWaterloo. Энтузиаст безопасности и блокчейна.
+home.vincent.linkedin.keep: null
 home.vincent.name.keep: Vincent Vuong
 home.vincent.title.keep: Инженер-программист (Интерн)
 home.xinxin.desc.keep: >-
@@ -235,6 +250,7 @@ home.xinxin.desc.keep: >-
   Старший инженер-исследователь в Bosch Research. Имеет 14 лет опыта работы и
   исследований в области информационной безопасности и криптографии и более 40
   публикаций/патентов.
+home.xinxin.linkedin.keep: 'https://www.linkedin.com/in/xinxin-fan-crypto/'
 home.xinxin.name.keep: Xinxin Fan
 home.xinxin.title.keep: Начальник отдела криптографии
 home.zhefeng.desc.keep: >-
@@ -242,11 +258,13 @@ home.zhefeng.desc.keep: >-
   имеет степень бакалавра в математике и информатике от University of
   Wisconsin-Madison. Энтузиаст технологии блокчейн, машинного обучения и
   интернета вещей.
+home.zhefeng.linkedin.keep: null
 home.zhefeng.name.keep: Zhefeng Li
 home.zhefeng.title.keep: Блокчейн Инженер
 home.zhen.desc.keep: >-
   Изучает компьютерные науки в UWaterloo. Энтузиаст блокчейна, криптовалюты и
   машинного обучения.
+home.zhen.linkedin.keep: null
 home.zhen.name.keep: Zhen Li
 home.zhen.title.keep: Инженер-программист (Интерн)
 home.zhijie.desc.keep: >-
@@ -254,6 +272,7 @@ home.zhijie.desc.keep: >-
   лет опыта работы в распределенных системах, сетях P2P и больших данных.
   Коммиттер и PMC Hadoop и Samza. Член Apache Software Foundation. Имеет 10+
   публикаций и патентов.
+home.zhijie.linkedin.keep: 'https://www.linkedin.com/in/zjshen/'
 home.zhijie.name.keep: Zhijie Shen
 home.zhijie.title.keep: Блокчейн инженер
 profile.eth.eth_new: 4. Enter your new ETH address
