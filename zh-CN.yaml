@@ -279,6 +279,9 @@ testnet-alpha.released-title: 我们的测试网Alpha已经发布
 testnet-preview.home-title: 测试网预览 (StoneVan) 即将发布
 testnet-preview.released-event-title: 我们的测试网预览已经发布！
 testnet-preview.released-title: 我们的测试网预览已经发布
+testnet.detail: 详情
+testnet.code: 代码
+testnet.demo: 演示
 topbar.about: 关于
 topbar.account: 账户
 topbar.announcements: 公告

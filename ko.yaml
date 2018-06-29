@@ -335,3 +335,6 @@ topbar.video: VIDEO
 topbar.white-paper: 백서
 whitepaper.button.next: 다음
 whitepaper.button.previous: 이전
+testnet.detail: testnet.detail
+testnet.code: testnet.code
+testnet.demo: testnet.demo
