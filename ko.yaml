@@ -193,8 +193,7 @@ home.section.roadmap: IoTeX.Tech.Roadmap
 home.section.team: IoTeX.Team
 home.section.teamfrom: IoTeX.Team.Background
 home.section.useceses: IoTeX.UseCases
-home.site.description: >-
-  자율적으로 확장가능한 개인보호 보호 중심의 IoT 전용 블록체인 입니다. IoTeX는 한 블록 한 블록씩 세상을 연결시켜가며
+home.site.description: 자율적으로 확장가능한 개인보호 보호 중심의 IoT 전용 블록체인 입니다. IoTeX는 한 블록 한 블록씩 세상을 연결시켜가며
 home.slogan: 한 블럭 한 블럭씩 세상을 연결합니다.
 home.title: IoTeX
 home.vedaad.desc.keep: >-
@@ -265,7 +264,6 @@ profile.message.memo: Memo
 profile.message.no_eth: You need an ETH address to redeem.
 profile.message.not_a_number: 유효한 숫자를 입력하세요.
 profile.message.not_enough_points: 포인트가 부족합니다.
-profile.message.ok: OK
 profile.message.processing: 처리중
 profile.message.refund: REFUND
 profile.message.result: Result
@@ -311,12 +309,10 @@ stonevan.twitter: >-
 subscribe.btn: 구독
 subscribe.desc: 최근 진행사항과 이벤트 안내
 subscribe.title: 새 소식을 놓치지 마세요.
-testnet-alpha.home-title: Testnet Alpha (Strive) will be Open Sourced on
-testnet-alpha.released-event-title: Our Testnet Alpha Has Been Released!
-testnet-alpha.released-title: Testnet Alpha Has Been Released On
-testnet-preview.home-title: 테스트넷 미리보기(StoneVan)가 공개될 예정입니다.
 testnet-preview.released-event-title: 테스트넷 미리보기가 공개 되었습니다!
-testnet-preview.released-title: 테스트넷 미리보기가 공개 되었습니다.
+testnet.code: CODE
+testnet.demo: DEMO
+testnet.detail: DETAIL
 topbar.about: ABOUT
 topbar.account: 계정
 topbar.announcements: 새소식
@@ -333,6 +329,3 @@ topbar.video: VIDEO
 topbar.white-paper: 백서
 whitepaper.button.next: 다음
 whitepaper.button.previous: 이전
-testnet.detail: testnet.detail
-testnet.code: testnet.code
-testnet.demo: testnet.demo

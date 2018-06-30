@@ -305,7 +305,6 @@ profile.message.memo: Заметки
 profile.message.no_eth: Вам нужен ETH адрес а для обмена.
 profile.message.not_a_number: 'Пожалуйста, введите правильный номер.'
 profile.message.not_enough_points: У вас недостаточно очков.
-profile.message.ok: OK
 profile.message.processing: Загрузка
 profile.message.refund: Возврат
 profile.message.result: Result
@@ -352,12 +351,10 @@ stonevan.twitter: >-
 subscribe.btn: ПОДПИСАТЬСЯ
 subscribe.desc: Оставайтесь в курсе нашего прогресса и новостей
 subscribe.title: Подпишитесь на нашу рассылку
-testnet-alpha.home-title: Testnet Alpha (Strive) will be Open Sourced on
-testnet-alpha.released-event-title: Our Testnet Alpha Has Been Released!
-testnet-alpha.released-title: Testnet Alpha Has Been Released On
-testnet-preview.home-title: Привью Тест-нета (StoneVan) состоялся
 testnet-preview.released-event-title: Наш Тест-нет Привью уже вышел!
-testnet-preview.released-title: Привью Тест-нета состоялся
+testnet.code: CODE
+testnet.demo: DEMO
+testnet.detail: DETAIL
 topbar.about: ОБ
 topbar.account: АККАУНТ
 topbar.announcements: АНОНСЫ
@@ -374,6 +371,3 @@ topbar.video: ВИДЕО
 topbar.white-paper: WHITE PAPER
 whitepaper.button.next: ВПЕРЕД
 whitepaper.button.previous: НАЗАД
-testnet.detail: DETAIL
-testnet.code: CODE
-testnet.demo: DEMO

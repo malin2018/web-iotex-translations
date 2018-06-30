@@ -297,7 +297,6 @@ profile.message.memo: Memo
 profile.message.no_eth: You need an ETH address to redeem.
 profile.message.not_a_number: Please enter a valid number.
 profile.message.not_enough_points: You don't have enough points.
-profile.message.ok: OK
 profile.message.processing: Processing
 profile.message.refund: REFUND
 profile.message.result: Result
@@ -344,15 +343,10 @@ stonevan.twitter: >-
 subscribe.btn: SUBSCRIBE
 subscribe.desc: With our latest progress and events.
 subscribe.title: STAY UPDATED
-testnet-alpha.home-title: Testnet Alpha (Strive) will be Open Sourced on
-testnet-alpha.released-event-title: Our Testnet Alpha Has Been Released!
-testnet-alpha.released-title: Testnet Alpha Has Been Released On
-testnet-preview.home-title: Testnet Preview (StoneVan) will be released on
 testnet-preview.released-event-title: Our Testnet Preview Has Been Released!
-testnet-preview.released-title: Testnet Preview Has Been Released On
 testnet.code: CODE
-testnet.detail: DETAIL
 testnet.demo: DEMO
+testnet.detail: DETAIL
 topbar.about: ABOUT
 topbar.account: ACCOUNT
 topbar.announcements: ANNOUNCEMENTS
