@@ -309,7 +309,9 @@ stonevan.twitter: >-
 subscribe.btn: 구독
 subscribe.desc: 최근 진행사항과 이벤트 안내
 subscribe.title: 새 소식을 놓치지 마세요.
-testnet-preview.released-event-title: 테스트넷 미리보기가 공개 되었습니다!
+testnet-alpha.home-title.keep: Testnet Alpha (Strive) will be Open Sourced on
+testnet-alpha.released-title.keep: Testnet Alpha Has Been Released On
+testnet-preview.released-event-title.keep: Our Testnet Preview Has Been Released!
 testnet.code: CODE
 testnet.demo: DEMO
 testnet.detail: DETAIL

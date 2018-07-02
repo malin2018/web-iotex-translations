@@ -351,7 +351,9 @@ stonevan.twitter: >-
 subscribe.btn: ПОДПИСАТЬСЯ
 subscribe.desc: Оставайтесь в курсе нашего прогресса и новостей
 subscribe.title: Подпишитесь на нашу рассылку
-testnet-preview.released-event-title: Наш Тест-нет Привью уже вышел!
+testnet-alpha.home-title.keep: Testnet Alpha (Strive) will be Open Sourced on
+testnet-alpha.released-title.keep: Testnet Alpha Has Been Released On
+testnet-preview.released-event-title.keep: Our Testnet Preview Has Been Released!
 testnet.code: CODE
 testnet.demo: DEMO
 testnet.detail: DETAIL
