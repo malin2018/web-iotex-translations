@@ -274,7 +274,9 @@ subscribe.desc: 获取最新项目进展和活动消息
 subscribe.title: 与我们保持联系
 testnet-alpha.home-title.keep: 我的测试网 Alpha (Strive) 将发布于
 testnet-alpha.released-title.keep: 我们的测试网 Alpha (Strive) 已经发布！
+testnet-preview.home-title.keep: 测试网预览 (StoneVan) 将发布于
 testnet-preview.released-event-title.keep: 我们的测试网预览已经发布！
+testnet-preview.released-title.keep: Testnet Preview Has Been Released On
 testnet.code: 代码
 testnet.demo: 演示
 testnet.detail: 详情

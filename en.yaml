@@ -345,7 +345,9 @@ subscribe.desc: With our latest progress and events.
 subscribe.title: STAY UPDATED
 testnet-alpha.home-title.keep: Testnet Alpha (Strive) will be Open Sourced on
 testnet-alpha.released-title.keep: Testnet Alpha Has Been Released On
+testnet-preview.home-title.keep: Testnet Preview (StoneVan) will be released on
 testnet-preview.released-event-title.keep: Our Testnet Preview Has Been Released!
+testnet-preview.released-title.keep: Testnet Preview Has Been Released On
 testnet.code: CODE
 testnet.demo: DEMO
 testnet.detail: DETAIL
