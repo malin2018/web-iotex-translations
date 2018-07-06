@@ -13,8 +13,8 @@ auth.phone_number: Номер телефона
 auth.tab.mobile: Номеp(CN)
 auth.tab.telegram: Telegram
 auth.verification_code: Код подтверждения
-captcha.incorrect_captcha: Неверная captcha
-captcha.loading_captcha: Загрузка captcha...
+captcha.incorrect_captcha: Неверная капча
+captcha.loading_captcha: Загрузка капчи...
 captcha.unknown_error: 'Что-то пошло не так. Пожалуйста, попытайтесь позже.'
 charity-dorahacks.tweet.summary.description: >-
   Мы ценим ваше большое и доброе сердце!Помимо фиксированного благодарственного
@@ -275,14 +275,14 @@ home.zhijie.desc.keep: >-
 home.zhijie.linkedin.keep: 'https://www.linkedin.com/in/zjshen/'
 home.zhijie.name.keep: Zhijie Shen
 home.zhijie.title.keep: Блокчейн инженер
-profile.eth.eth_new: 4. Enter your new ETH address
+profile.eth.eth_new: 4. Введите ваш новый ETH адрес
 profile.eth.expiration: Истекает в
 profile.eth.invalid: 'Пожалуйста, введите правильный ETH адрес.'
-profile.eth.message: '1. Copy the message:'
-profile.eth.sign_new: '2. Sign the message with your private key:'
-profile.eth.sign_old: '2. Sign the message with your OLD private key:'
-profile.eth.signature: 3. Fill in the signature
-profile.eth.update: Update your ETH address
+profile.eth.message: '1. Копировать сообщение:'
+profile.eth.sign_new: '2. Подтвердите сообщение введя ваш секретный ключ:'
+profile.eth.sign_old: '2. Подтвердите сообщние введя ваш СТАРЫЙ секретный ключ:'
+profile.eth.signature: 3. Заполните подпись
+profile.eth.update: Обновите ваш ETH адрес
 profile.eth.updated: Ваш ETH адрес был обновлен.
 profile.eth.verified: Ваш ETH адрес был подтвержден.
 profile.eth.verify: Подтвердите ваш ETH адрес
@@ -294,8 +294,8 @@ profile.info.eth_address: ETH Адрес
 profile.info.phone_number: Телефон
 profile.info.telegram_account_id: Telegram
 profile.message.back: НАЗАД
-profile.message.change: CHANGE
-profile.message.close: Close
+profile.message.change: ИЗМЕНИТЬ
+profile.message.close: Закрыть
 profile.message.copied: Скопировать код.
 profile.message.copy: Скопировать
 profile.message.generate: Генерировать
@@ -307,9 +307,9 @@ profile.message.not_a_number: 'Пожалуйста, введите правил
 profile.message.not_enough_points: У вас недостаточно очков.
 profile.message.processing: Загрузка
 profile.message.refund: Возврат
-profile.message.result: Result
-profile.message.set: SET
-profile.message.sign: SIGN
+profile.message.result: Результат
+profile.message.set: УСТАНОВИТЬ
+profile.message.sign: ПОДПИСАТЬ
 profile.message.submit: ОТПРАВИТЬ
 profile.message.verify: ПОДТВЕРДИТЬ
 profile.message.view: Просмотр
@@ -336,13 +336,13 @@ profile.send.button: СГЕНЕРИРОВАТЬ КОД
 profile.send.code: Код
 profile.send.end: Время завершения
 profile.send.left: Осталось
-profile.send.memo: Memo (optional)
+profile.send.memo: Заметки
 profile.send.menu: ОТПРАВИТЬ
 profile.send.prompt: ВВЕДИТЕ СУММУ ОЧКОВ ДЛЯ ОТПРАВКИ
 profile.send.start: Время начала
 profile.send.success: IoTeX код был успешно сгенерирован!
 profile.send.total: Всего
-profile.wallet.exchange: Exchanges
+profile.wallet.exchange: Обмены
 profile.wallet.rank: Рейтинг
 profile.wallet.title: Ваши IoTeX токены
 stonevan.twitter: >-
@@ -351,14 +351,14 @@ stonevan.twitter: >-
 subscribe.btn: ПОДПИСАТЬСЯ
 subscribe.desc: Оставайтесь в курсе нашего прогресса и новостей
 subscribe.title: Подпишитесь на нашу рассылку
-testnet-alpha.home-title.keep: Testnet Alpha (Strive) will be Open Sourced on
-testnet-alpha.released-title.keep: Testnet Alpha Has Been Released On
-testnet-preview.home-title.keep: Testnet Preview (StoneVan) will be released on
-testnet-preview.released-event-title.keep: Our Testnet Preview Has Been Released!
-testnet-preview.released-title.keep: Testnet Preview Has Been Released On
-testnet.code: CODE
-testnet.demo: DEMO
-testnet.detail: DETAIL
+testnet-alpha.home-title.keep: Тест-нет Альфа (Strive) станет Открытым Исходным Кодом 
+testnet-alpha.released-title.keep: Тест-нет Альфа вышел 
+testnet-preview.home-title.keep: Тест-нет Привью (StoneVan) выйдет
+testnet-preview.released-event-title.keep: Наш Тест-нет Привью уже вышел!
+testnet-preview.released-title.keep: Наш Тест-нет Привью вышел
+testnet.code: КОД
+testnet.demo: ДЕМО
+testnet.detail: ПОДРОБНОСТИ
 topbar.about: ОБ
 topbar.account: АККАУНТ
 topbar.announcements: АНОНСЫ
